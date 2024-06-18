@@ -1,0 +1,1040 @@
+age,sex,wilaya,devicetype,line_type,global_profile,value_segment,number_subscription,nb_supended,yr,mr
+81,Male,MEDEA,Phablet,4G,PREPAYED,Very Low Value,17,0,0,7
+27,Male,AIN-DEFLA,Phablet,4G,PREPAYED,Very Low Value,45,0,2,4
+24,Male,MEDEA,Phablet,4G,PREPAYED,NEW,10,0,0,3
+40,Male,MASCARA,Tablet,4G,PREPAYED,Very Low Value,9,1,1,4
+38,Male,BATNA,Phablet,4G,PREPAYED,Very Low Value,3,0,5,3
+58,Male,ALGER,Phablet,4G,PREPAYED,NEW,2,0,0,3
+36,Male,MASCARA,Smartphone,2G,PREPAYED,Very Low Value,3,0,16,2
+40,Male,NAAMA,Smartphone,2G,PREPAYED,Very Low Value,3,0,16,6
+50,Male,MEDEA,Phablet,4G,PREPAYED,Low Value,59,0,0,8
+47,Male,MEDEA,Smartphone,4G,PREPAYED,Very Low Value,5,0,0,7
+56,Male,TIZI-OUZOU,Phablet,4G,PREPAYED,Zero Value,1,0,0,4
+27,Female,SIDI-BELABBES,Smartphone,4G,PREPAYED,Very Low Value,25,0,0,9
+56,Male,BISKRA,Phablet,4G,PREPAYED,Low Value,21,0,0,5
+33,Male,DJELFA,Feature Phone,4G,PREPAYED,Low Value,1,0,15,5
+32,Male,MILA,Feature Phone,4G,PREPAYED,Very Low Value,43,0,1,5
+28,Male,ORAN,Phablet,4G,PREPAYED,Low Value,4,0,8,6
+29,Male,BORDJ-BOU-ARRERIDJ,Phablet,4G,PREPAYED,High Value,18,0,0,7
+37,Male,OULED-DJELLAL,Tablet,4G,PREPAYED,Very Low Value,7,0,0,4
+37,Male,RELIZANE,Phablet,4G,HYBRID,Not Concerned (Postpaid),1,0,3,3
+35,Male,BOUMERDES,Smartphone,3G,PREPAYED,Low Value,48,0,17,4
+48,Male,SETIF,Feature Phone,4G,PREPAYED,Very Low Value,1,0,16,11
+23,Male,MASCARA,Phablet,4G,PREPAYED,Very Low Value,22,0,2,5
+52,Male,BLIDA,Smartphone,4G,PREPAYED,Low Value,17,0,0,6
+45,Male,BORDJ-BOU-ARRERIDJ,Feature Phone,4G,PREPAYED,Very Low Value,2,0,0,7
+57,Male,RELIZANE,Phablet,4G,PREPAYED,Very Low Value,2,0,16,4
+38,Male,TIZI-OUZOU,Phablet,4G,PREPAYED,Very Low Value,6,0,0,4
+30,Male,MOSTAGANEM,Smartphone,4G,PREPAYED,Very High Value,73,0,0,4
+40,Male,JIJEL,Smartphone,4G,PREPAYED,Very Low Value,1,0,0,7
+50,Male,DJELFA,Phablet,4G,PREPAYED,NEW,11,0,0,3
+41,Male,OUM-EL-BOUAGHI,Smartphone,4G,PREPAYED,Medium Value,8,0,17,10
+27,Female,AIN-TEMOUCHENT,Smartphone,4G,PREPAYED,Low Value,16,0,4,9
+37,Male,ALGER,Smartphone,4G,PREPAYED,High Value,9,0,5,7
+39,Male,TEBESSA,Phablet,4G,PREPAYED,Low Value,14,0,5,10
+49,Male,BLIDA,Phablet,4G,PREPAYED,Zero Value,21,0,0,11
+64,Male,ALGER,Smartphone,2G,PREPAYED,Very Low Value,1,0,18,11
+57,Male,ALGER,Smartphone,4G,PREPAYED,Very Low Value,2,0,0,4
+48,Male,SKIKDA,Phablet,4G,PREPAYED,Very Low Value,33,0,1,2
+28,Female,BEJAIA,Phablet,4G,PREPAYED,Medium Value,6,0,10,9
+57,Male,TLEMCEN,Phablet,3G,PREPAYED,Low Value,45,0,7,6
+35,Male,ALGER,Smartphone,4G,PREPAYED,Very Low Value,1,0,3,3
+53,Male,BOUMERDES,Smartphone,4G,PREPAYED,NEW,4,0,0,3
+56,Male,TLEMCEN,Phablet,4G,PREPAYED,Low Value,10,0,2,5
+33,Female,BEJAIA,Phablet,4G,PREPAYED,Zero Value,2,0,1,5
+41,Male,RELIZANE,Feature Phone,4G,PREPAYED,Very Low Value,1,0,0,4
+24,Male,ORAN,Phablet,4G,PREPAYED,NEW,6,0,0,3
+27,Male,SETIF,Phablet,4G,PREPAYED,Low Value,3,0,0,8
+27,Male,EL-OUED,Smartphone,4G,PREPAYED,Low Value,12,0,2,10
+32,Male,MEDEA,Phablet,4G,PREPAYED,Medium Value,19,0,3,10
+50,Female,ALGER,Phablet,4G,PREPAYED,Very Low Value,59,0,1,0
+26,Male,TIZI-OUZOU,Feature Phone,4G,PREPAYED,Zero Value,1,0,0,5
+32,Male,ORAN,Phablet,4G,PREPAYED,Very Low Value,24,1,13,11
+34,Female,BLIDA,Phablet,4G,PREPAYED,Medium Value,13,0,0,7
+62,Male,BLIDA,Feature Phone,2G,PREPAYED,Low Value,57,0,17,6
+48,Male,MASCARA,Smartphone,4G,PREPAYED,Very Low Value,7,0,17,1
+50,Male,SETIF,Phablet,4G,PREPAYED,Low Value,8,0,0,4
+36,Male,ALGER,Phablet,4G,PREPAYED,Medium Value,4,0,0,4
+36,Male,MASCARA,Phablet,4G,PREPAYED,Zero Value,7,0,0,3
+32,Male,MSILA,Smartphone,4G,PREPAYED,Zero Value,19,0,1,4
+33,Male,OUM-EL-BOUAGHI,Phablet,3G,PREPAYED,Very Low Value,4,0,7,10
+44,Female,ALGER,Phablet,4G,PREPAYED,Zero Value,1,0,0,4
+42,Male,ORAN,Phablet,4G,PREPAYED,Very Low Value,2,0,0,5
+44,Male,ALGER,Phablet,4G,PREPAYED,NEW,1,0,0,2
+45,Male,BLIDA,Smartphone,4G,PREPAYED,Zero Value,25,0,0,6
+46,Female,JIJEL,Phablet,4G,PREPAYED,Very Low Value,1,0,15,6
+34,Male,MILA,Phablet,4G,PREPAYED,Zero Value,9,0,0,6
+38,Male,MILA,Phablet,4G,PREPAYED,High Value,1,0,0,3
+26,Male,ANNABA,Phablet,4G,PREPAYED,NEW,44,0,0,3
+32,Male,ALGER,Smartphone,4G,PREPAYED,Zero Value,1,0,1,4
+35,Male,AIN-DEFLA,Phablet,4G,PREPAYED,Very Low Value,52,0,1,4
+50,Male,SETIF,Phablet,4G,PREPAYED,Zero Value,36,0,0,9
+47,Male,ORAN,Smartphone,4G,PREPAYED,NEW,1,0,0,3
+43,Male,MOSTAGANEM,Phablet,4G,PREPAYED,High Value,10,0,3,5
+43,Male,BOUMERDES,Phablet,4G,PREPAYED,Very Low Value,7,0,1,0
+51,Male,MEDEA,Phablet,4G,PREPAYED,Medium Value,11,0,4,10
+52,Male,ALGER,Phablet,4G,PREPAYED,Zero Value,5,0,0,7
+25,Male,BISKRA,Phablet,4G,PREPAYED,NEW,14,0,0,1
+20,Male,ALGER,Phablet,4G,PREPAYED,Zero Value,2,0,0,4
+32,Male,SETIF,Smartphone,4G,PREPAYED,Zero Value,1,0,0,4
+58,Male,BATNA,Phablet,4G,PREPAYED,Medium Value,7,0,6,0
+33,Male,MSILA,Phablet,4G,PREPAYED,NEW,1,0,0,3
+41,Male,TIZI-OUZOU,Smartphone,4G,PREPAYED,Very Low Value,22,0,0,10
+52,Male,BEJAIA,Phablet,4G,PREPAYED,High Value,33,0,3,0
+21,Male,DJELFA,Phablet,4G,PREPAYED,Zero Value,1,0,0,4
+35,Male,MILA,Smartphone,4G,PREPAYED,Low Value,8,0,3,6
+33,Female,RELIZANE,Phablet,4G,PREPAYED,Medium Value,50,0,1,2
+25,Male,BORDJ-BOU-ARRERIDJ,Phablet,4G,PREPAYED,High Value,4,0,2,4
+46,Male,BISKRA,Phablet,4G,PREPAYED,High Value,1,0,4,2
+50,Male,CONSTANTINE,Smartphone,4G,PREPAYED,Zero Value,11,0,17,4
+32,Male,CHLEF,Phablet,4G,PREPAYED,Zero Value,3,0,0,6
+58,Male,ORAN,Phablet,4G,PREPAYED,Very Low Value,4,0,1,8
+38,Male,BOUIRA,Phablet,4G,PREPAYED,Very Low Value,2,0,0,4
+49,Male,MILA,Phablet,4G,PREPAYED,High Value,6,0,2,10
+61,Male,ALGER,Phablet,4G,PREPAYED,Medium Value,38,0,0,7
+37,Male,TIARET,Feature Phone,4G,PREPAYED,Very Low Value,13,0,10,2
+31,Male,MSILA,Smartphone,4G,PREPAYED,Very Low Value,2,0,0,5
+22,Male,TINDOUF,Phablet,4G,PREPAYED,Zero Value,7,0,0,8
+35,Male,MEDEA,Smartphone,4G,PREPAYED,Very Low Value,1,0,3,6
+35,Male,BATNA,Phablet,4G,PREPAYED,Zero Value,4,0,0,6
+39,Male,TLEMCEN,Phablet,4G,PREPAYED,Very Low Value,2,0,10,5
+20,Male,MEDEA,Phablet,4G,PREPAYED,Low Value,16,0,1,3
+19,Male,BORDJ-BOU-ARRERIDJ,Phablet,4G,PREPAYED,Zero Value,1,0,0,4
+36,Female,CHLEF,Tablet,4G,PREPAYED,Very Low Value,11,0,0,9
+31,Male,TLEMCEN,Phablet,4G,PREPAYED,Zero Value,6,0,0,5
+52,Male,RELIZANE,Phablet,2G,PREPAYED,Zero Value,5,0,13,2
+41,Female,ORAN,Phablet,4G,PREPAYED,Very Low Value,5,0,6,1
+33,Male,AIN-DEFLA,Phablet,4G,PREPAYED,Very Low Value,10,0,15,3
+36,Male,ANNABA,Smartphone,4G,PREPAYED,Very Low Value,5,0,2,1
+36,Male,TEBESSA,Phablet,4G,PREPAYED,Zero Value,10,0,0,8
+50,Male,SETIF,Smartphone,2G,PREPAYED,Very Low Value,7,0,16,2
+24,Female,MILA,Phablet,4G,PREPAYED,Zero Value,18,0,0,6
+45,Male,TIPAZA,Smartphone,4G,PREPAYED,Low Value,10,0,0,7
+32,Female,EL-MGHAIER,Smartphone,4G,PREPAYED,Very Low Value,2,0,0,9
+74,Male,ANNABA,Smartphone,4G,PREPAYED,Medium Value,8,0,17,5
+27,Male,TIARET,Phablet,3G,PREPAYED,Very Low Value,11,0,8,0
+38,Female,ALGER,Phablet,4G,PREPAYED,Very Low Value,1,0,17,0
+23,Male,BOUIRA,Smartphone,4G,PREPAYED,Very Low Value,10,0,0,8
+20,Male,CONSTANTINE,Phablet,4G,PREPAYED,NEW,1,0,0,2
+31,Male,AIN-TEMOUCHENT,Feature Phone,3G,PREPAYED,Very Low Value,4,0,8,8
+41,Male,ALGER,Phablet,4G,HYBRID,Not Concerned (Postpaid),3,0,4,6
+35,Male,TLEMCEN,Phablet,4G,PREPAYED,Medium Value,7,0,0,6
+23,Male,ALGER,Phablet,4G,PREPAYED,Zero Value,6,0,0,8
+40,Male,TIZI-OUZOU,Smartphone,4G,PREPAYED,Low Value,20,0,5,7
+22,Male,OUARGLA,Phablet,4G,PREPAYED,Very High Value,79,0,1,0
+31,Male,SIDI-BELABBES,Tablet,4G,PREPAYED,Very Low Value,22,1,1,1
+30,Male,SKIKDA,Smartphone,4G,PREPAYED,High Value,5,0,5,0
+41,Male,OUM-EL-BOUAGHI,Phablet,4G,PREPAYED,High Value,19,0,1,9
+54,Male,AIN-DEFLA,Phablet,4G,PREPAYED,Very High Value,79,0,2,4
+42,Male,BATNA,Phablet,4G,PREPAYED,High Value,8,0,0,7
+29,Male,BATNA,Smartphone,4G,PREPAYED,Medium Value,31,0,1,2
+38,Male,OULED-DJELLAL,Phablet,4G,PREPAYED,Very Low Value,3,0,0,5
+48,Male,CHLEF,Phablet,4G,PREPAYED,Not Concerned (Postpaid),1,1,12,1
+22,Male,ALGER,Phablet,4G,PREPAYED,Low Value,16,0,3,9
+32,Male,CONSTANTINE,Phablet,4G,PREPAYED,Zero Value,15,0,0,9
+48,Male,SAIDA,Smartphone,4G,PREPAYED,Very Low Value,14,0,9,2
+36,Female,BORDJ-BOU-ARRERIDJ,Phablet,4G,PREPAYED,Medium Value,9,0,5,0
+22,Male,OUM-EL-BOUAGHI,Phablet,4G,PREPAYED,Zero Value,4,0,1,10
+35,Male,AIN-DEFLA,Phablet,4G,PREPAYED,Medium Value,16,0,0,11
+55,Male,ALGER,Router,4G,PREPAYED,Zero Value,1,0,0,5
+38,Male,BORDJ-BOU-ARRERIDJ,Phablet,4G,PREPAYED,Low Value,2,0,3,5
+38,Male,BISKRA,Smartphone,2G,PREPAYED,Very Low Value,13,0,11,5
+30,Male,KHENCHELA,Phablet,4G,PREPAYED,High Value,31,0,2,4
+57,Male,OUARGLA,Phablet,4G,PREPAYED,Very Low Value,33,0,1,7
+48,Male,ALGER,Phablet,4G,PREPAYED,Very Low Value,1,2,5,0
+38,Female,TLEMCEN,Phablet,4G,PREPAYED,Very Low Value,7,0,0,4
+86,Male,GHARDAIA,Phablet,4G,PREPAYED,Low Value,6,0,2,3
+45,Male,RELIZANE,Smartphone,4G,PREPAYED,Very Low Value,3,0,0,7
+40,Male,MEDEA,Phablet,4G,PREPAYED,Medium Value,8,0,2,8
+55,Male,SIDI-BELABBES,Smartphone,4G,PREPAYED,Very Low Value,1,0,17,8
+57,Male,SETIF,Phablet,3G,PREPAYED,Very Low Value,29,0,7,5
+29,Male,SETIF,Phablet,4G,PREPAYED,Very Low Value,3,0,9,6
+19,Female,ALGER,Phablet,4G,PREPAYED,Low Value,79,0,0,9
+40,Male,BATNA,Smartphone,4G,PREPAYED,Zero Value,3,0,0,4
+36,Female,TIARET,Phablet,4G,PREPAYED,Very Low Value,2,0,0,7
+23,Male,ALGER,Phablet,4G,PREPAYED,Very Low Value,16,0,0,3
+43,Male,BEJAIA,Phablet,4G,PREPAYED,Very Low Value,7,0,0,8
+37,Male,CHLEF,Smartphone,4G,PREPAYED,Low Value,11,0,4,8
+45,Male,SKIKDA,Phablet,4G,PREPAYED,Low Value,16,0,6,5
+21,Male,RELIZANE,Smartphone,4G,PREPAYED,Very Low Value,5,0,1,4
+27,Male,BEJAIA,Phablet,4G,PREPAYED,Medium Value,25,0,3,9
+31,Male,ALGER,Phablet,4G,PREPAYED,Low Value,19,1,4,4
+36,Male,MSILA,Phablet,4G,PREPAYED,Low Value,2,0,0,3
+58,Male,ANNABA,Smartphone,2G,PREPAYED,Zero Value,4,0,17,10
+31,Male,ALGER,Phablet,4G,PREPAYED,NEW,1,0,0,2
+20,Female,ALGER,Smartphone,4G,PREPAYED,Very Low Value,12,0,0,6
+33,Male,CONSTANTINE,Phablet,4G,PREPAYED,High Value,18,0,5,2
+41,Male,MEDEA,Smartphone,2G,PREPAYED,Zero Value,13,0,15,9
+44,Male,TIZI-OUZOU,Phablet,4G,PREPAYED,High Value,101,0,20,1
+24,Female,MASCARA,Phablet,4G,PREPAYED,Medium Value,7,0,0,4
+62,Female,CHLEF,Smartphone,3G,PREPAYED,Very Low Value,2,0,7,2
+54,Male,ALGER,Smartphone,4G,PREPAYED,Zero Value,1,0,0,4
+37,Male,MASCARA,Phablet,4G,PREPAYED,Medium Value,26,0,3,1
+34,Male,SETIF,Smartphone,4G,PREPAYED,Very Low Value,1,0,0,3
+61,Male,BORDJ-BOU-ARRERIDJ,Phablet,4G,PREPAYED,NEW,2,0,0,3
+49,Female,ORAN,Phablet,4G,PREPAYED,Very Low Value,15,0,0,9
+37,Male,SAIDA,Smartphone,4G,PREPAYED,Medium Value,8,0,0,9
+45,Male,JIJEL,Smartphone,4G,PREPAYED,Low Value,18,0,13,9
+20,Male,BATNA,Phablet,4G,PREPAYED,Zero Value,5,0,0,6
+31,Male,ALGER,Phablet,4G,PREPAYED,Zero Value,4,0,5,5
+45,Male,MASCARA,Smartphone,3G,PREPAYED,Low Value,89,0,7,9
+57,Male,AIN-DEFLA,Phablet,4G,PREPAYED,Very Low Value,27,0,1,5
+48,Male,BEJAIA,Phablet,4G,PREPAYED,Low Value,7,0,0,9
+58,Male,TLEMCEN,Smartphone,2G,PREPAYED,Low Value,16,1,19,1
+48,Male,BOUMERDES,Tablet,4G,PREPAYED,Zero Value,2,0,0,3
+29,Male,ALGER,Router,4G,PREPAYED,Very Low Value,2,0,0,3
+24,Male,EL-OUED,Phablet,4G,PREPAYED,Zero Value,3,0,0,7
+46,Male,TIARET,Phablet,4G,PREPAYED,Very Low Value,5,0,0,4
+36,Male,ORAN,Phablet,4G,PREPAYED,Low Value,76,0,0,11
+23,Male,SKIKDA,Phablet,4G,PREPAYED,Very Low Value,67,0,0,8
+22,Male,SKIKDA,Phablet,4G,PREPAYED,Zero Value,12,0,0,5
+49,Male,MILA,Phablet,4G,PREPAYED,Very Low Value,23,0,0,5
+24,Male,BLIDA,Phablet,4G,PREPAYED,Low Value,3,0,0,4
+48,Male,TIPAZA,Phablet,4G,PREPAYED,Zero Value,1,0,0,5
+41,Male,ORAN,Phablet,4G,PREPAYED,Medium Value,108,0,13,0
+32,Female,BLIDA,Phablet,4G,PREPAYED,High Value,5,0,0,4
+30,Male,MSILA,Feature Phone,4G,PREPAYED,Zero Value,2,0,0,5
+54,Male,TLEMCEN,Phablet,4G,PREPAYED,Medium Value,47,0,16,5
+73,Male,ALGER,Feature Phone,4G,PREPAYED,Very Low Value,9,0,20,2
+46,Male,MOSTAGANEM,Feature Phone,4G,PREPAYED,Very Low Value,1,0,0,5
+40,Female,CONSTANTINE,Phablet,4G,PREPAYED,Low Value,68,0,6,11
+53,Female,TLEMCEN,Phablet,4G,PREPAYED,Medium Value,11,0,13,8
+39,Male,TLEMCEN,Phablet,4G,PREPAYED,Zero Value,2,0,1,9
+62,Male,BISKRA,Smartphone,4G,PREPAYED,Low Value,11,0,2,2
+35,Male,ORAN,Phablet,4G,PREPAYED,Low Value,6,0,4,0
+24,Male,SETIF,Phablet,4G,PREPAYED,Very Low Value,18,0,1,2
+44,Female,BORDJ-BOU-ARRERIDJ,Smartphone,4G,PREPAYED,NEW,1,0,0,2
+62,Male,ALGER,Phablet,4G,PREPAYED,Zero Value,1,0,0,4
+54,Male,CHLEF,Phablet,4G,PREPAYED,Very Low Value,4,0,0,6
+34,Male,BATNA,Phablet,4G,PREPAYED,Very Low Value,11,0,0,8
+36,Male,ORAN,Phablet,4G,PREPAYED,Very Low Value,2,0,0,8
+56,Male,ALGER,Phablet,4G,PREPAYED,High Value,23,0,17,11
+38,Male,MEDEA,Phablet,4G,PREPAYED,Medium Value,26,0,2,3
+29,Male,SETIF,Phablet,4G,PREPAYED,Zero Value,2,0,0,4
+45,Female,ORAN,Phablet,4G,PREPAYED,Medium Value,55,0,0,6
+27,Male,CONSTANTINE,Phablet,4G,PREPAYED,Very High Value,14,1,0,8
+53,Male,MASCARA,Feature Phone,2G,PREPAYED,High Value,9,1,13,9
+41,Female,SOUK-AHRAS,Phablet,4G,PREPAYED,Medium Value,12,0,4,2
+35,Male,AIN-DEFLA,Phablet,4G,PREPAYED,Very Low Value,7,0,5,3
+24,Female,RELIZANE,Smartphone,4G,PREPAYED,Low Value,12,1,1,1
+63,Male,MEDEA,Phablet,4G,PREPAYED,Low Value,59,0,12,3
+29,Female,BISKRA,Phablet,4G,PREPAYED,NEW,1,0,0,3
+39,Male,ORAN,Phablet,4G,PREPAYED,Medium Value,7,0,0,9
+24,Male,TIZI-OUZOU,Phablet,4G,PREPAYED,Medium Value,8,0,1,4
+70,Male,SKIKDA,Phablet,4G,PREPAYED,Very Low Value,64,0,4,9
+54,Female,OUM-EL-BOUAGHI,Phablet,4G,PREPAYED,NEW,1,0,0,3
+36,Male,MEDEA,Phablet,4G,PREPAYED,Zero Value,1,0,0,4
+47,Male,MSILA,Phablet,4G,PREPAYED,Very Low Value,12,0,0,9
+43,Male,MEDEA,Smartphone,4G,PREPAYED,Very Low Value,1,0,2,8
+54,Male,BEJAIA,Phablet,4G,PREPAYED,Very Low Value,21,0,18,2
+30,Male,BORDJ-BOU-ARRERIDJ,Phablet,4G,PREPAYED,Very Low Value,1,0,0,3
+42,Male,ORAN,Phablet,4G,PREPAYED,Very Low Value,2,0,0,9
+79,Male,MOSTAGANEM,Smartphone,4G,PREPAYED,Very Low Value,18,0,5,8
+65,Male,BLIDA,Phablet,4G,PREPAYED,Zero Value,1,0,0,4
+44,Male,ALGER,Smartphone,3G,PREPAYED,Medium Value,7,0,7,3
+28,Male,ANNABA,Phablet,4G,PREPAYED,Very High Value,182,0,4,10
+64,Female,BISKRA,Phablet,4G,PREPAYED,Very Low Value,1,0,5,3
+30,Male,BLIDA,Phablet,4G,PREPAYED,Medium Value,4,0,1,2
+31,Male,BOUIRA,Phablet,4G,PREPAYED,Very Low Value,7,0,4,1
+26,Male,SETIF,Smartphone,4G,PREPAYED,Zero Value,2,0,6,3
+86,Male,CONSTANTINE,Phablet,4G,PREPAYED,Very Low Value,2,0,0,5
+62,Male,BORDJ-BOU-ARRERIDJ,Phablet,4G,PREPAYED,Low Value,46,0,0,6
+45,Male,MILA,Phablet,4G,PREPAYED,Very Low Value,1,0,0,6
+27,Male,ALGER,Phablet,4G,PREPAYED,Low Value,21,0,2,6
+58,Male,CONSTANTINE,Phablet,4G,PREPAYED,Low Value,117,0,0,8
+36,Male,ORAN,Phablet,4G,PREPAYED,Medium Value,5,0,3,9
+49,Female,TIARET,Smartphone,4G,PREPAYED,Very Low Value,3,0,6,0
+54,Male,MOSTAGANEM,Phablet,4G,PREPAYED,Very Low Value,22,0,19,4
+22,Male,MILA,Smartphone,4G,PREPAYED,Medium Value,13,0,3,5
+73,Female,ALGER,Smartphone,4G,PREPAYED,NEW,1,0,0,3
+37,Male,RELIZANE,Phablet,3G,PREPAYED,Low Value,8,0,10,0
+41,Male,AIN-DEFLA,Smartphone,4G,PREPAYED,Medium Value,28,0,15,4
+21,Male,OULED-DJELLAL,Phablet,4G,PREPAYED,High Value,33,0,0,9
+63,Male,SAIDA,Phablet,4G,PREPAYED,Zero Value,4,0,4,10
+51,Female,ALGER,Phablet,4G,PREPAYED,Low Value,5,0,0,3
+23,Female,EL-TARF,Phablet,4G,PREPAYED,Low Value,10,0,0,5
+37,Male,DJELFA,Smartphone,4G,PREPAYED,Very Low Value,3,0,6,5
+40,Male,EL-OUED,Phablet,4G,PREPAYED,Low Value,2,0,2,11
+41,Male,MILA,Phablet,4G,PREPAYED,High Value,9,0,4,11
+28,Male,ALGER,Phablet,4G,PREPAYED,NEW,4,0,0,1
+24,Male,ORAN,Phablet,4G,PREPAYED,Very Low Value,21,0,0,5
+29,Male,TLEMCEN,Feature Phone,4G,PREPAYED,Zero Value,1,0,1,1
+50,Male,BATNA,Phablet,4G,PREPAYED,Medium Value,2,1,18,5
+31,Female,ORAN,Phablet,4G,PREPAYED,Very Low Value,11,0,0,8
+43,Male,GUELMA,Phablet,4G,PREPAYED,Very Low Value,1,0,0,6
+82,Female,CONSTANTINE,Phablet,4G,PREPAYED,Very Low Value,2,0,0,5
+36,Male,TIARET,Phablet,4G,PREPAYED,Zero Value,3,0,0,5
+59,Male,MOSTAGANEM,Smartphone,2G,PREPAYED,Low Value,37,0,16,4
+42,Female,BLIDA,Phablet,4G,PREPAYED,NEW,3,0,0,0
+53,Male,AIN-DEFLA,Phablet,4G,PREPAYED,Very Low Value,2,0,10,5
+28,Male,TISSEMSILT,Phablet,4G,PREPAYED,Very Low Value,6,0,0,4
+42,Male,CONSTANTINE,Phablet,4G,PREPAYED,Very Low Value,9,0,0,8
+26,Male,ORAN,Phablet,4G,PREPAYED,Very Low Value,9,0,1,11
+40,Male,TISSEMSILT,UNKNOWN,4G,PREPAYED,Zero Value,2,0,0,4
+21,Female,BOUIRA,Phablet,4G,PREPAYED,Zero Value,1,0,0,4
+63,Male,AIN-TEMOUCHENT,Phablet,4G,PREPAYED,Very Low Value,1,0,15,1
+58,Male,TIZI-OUZOU,Feature Phone,4G,PREPAYED,NEW,1,0,0,2
+41,Male,KHENCHELA,Router,4G,PREPAYED,NEW,4,0,0,3
+50,Male,CONSTANTINE,Phablet,4G,PREPAYED,Medium Value,12,1,4,3
+33,Male,OUM-EL-BOUAGHI,Phablet,4G,PREPAYED,Very Low Value,13,0,6,0
+32,Male,ALGER,Phablet,4G,PREPAYED,High Value,6,0,4,10
+66,Male,MEDEA,Smartphone,2G,PREPAYED,Medium Value,9,0,17,2
+41,Male,MILA,Smartphone,4G,PREPAYED,Low Value,10,0,0,8
+52,Male,CHLEF,Phablet,4G,PREPAYED,Medium Value,12,0,4,10
+49,Male,ALGER,Phablet,4G,PREPAYED,Medium Value,26,0,3,2
+54,Male,ALGER,Smartphone,4G,PREPAYED,High Value,8,0,3,5
+53,Female,CONSTANTINE,Phablet,4G,PREPAYED,Medium Value,6,0,16,10
+23,Male,CONSTANTINE,Phablet,4G,PREPAYED,Low Value,35,0,2,2
+38,Male,CONSTANTINE,Phablet,4G,HYBRID,Not Concerned (Postpaid),4,0,0,5
+67,Male,ALGER,Phablet,4G,PREPAYED,Very Low Value,22,1,5,11
+51,Female,CONSTANTINE,Router,4G,PREPAYED,Zero Value,1,0,0,4
+45,Male,ANNABA,Smartphone,4G,PREPAYED,Zero Value,3,0,0,8
+29,Female,CONSTANTINE,Smartphone,4G,PREPAYED,Very Low Value,28,0,1,3
+34,Male,BATNA,Smartphone,4G,PREPAYED,High Value,55,0,4,10
+57,Male,MOSTAGANEM,Phablet,4G,PREPAYED,Very Low Value,1,0,17,4
+21,Female,ALGER,Phablet,4G,PREPAYED,Zero Value,29,0,0,7
+50,Male,CHLEF,Phablet,4G,PREPAYED,Very Low Value,39,0,0,9
+55,Female,ORAN,Phablet,4G,PREPAYED,Zero Value,4,0,5,3
+40,Male,TIARET,Phablet,4G,PREPAYED,Medium Value,6,0,0,5
+22,Male,ALGER,Phablet,4G,PREPAYED,NEW,3,0,0,2
+42,Female,ALGER,Phablet,4G,PREPAYED,Very Low Value,11,0,1,9
+40,Male,BLIDA,Smartphone,4G,PREPAYED,Low Value,35,0,11,1
+40,Male,DJELFA,Phablet,4G,PREPAYED,Zero Value,1,0,0,5
+27,Male,MILA,Phablet,4G,PREPAYED,Zero Value,6,0,0,6
+50,Male,BEJAIA,Phablet,4G,PREPAYED,Very Low Value,3,0,0,6
+56,Male,DJELFA,Phablet,4G,PREPAYED,Zero Value,1,0,1,4
+36,Male,TLEMCEN,Phablet,4G,HYBRID,Not Concerned (Postpaid),7,0,13,2
+29,Female,ALGER,Phablet,4G,PREPAYED,Zero Value,1,0,0,4
+49,Male,BOUMERDES,UNKNOWN,4G,PREPAYED,NEW,1,0,0,2
+75,Male,AIN-DEFLA,Phablet,4G,PREPAYED,Very Low Value,9,0,1,9
+44,Male,ORAN,Phablet,4G,PREPAYED,Zero Value,4,2,2,10
+19,Male,ORAN,Phablet,4G,PREPAYED,NEW,7,1,0,2
+36,Male,ALGER,Phablet,4G,PREPAYED,Very High Value,10,0,0,9
+58,Male,ALGER,Smartphone,4G,PREPAYED,Very Low Value,4,0,0,5
+23,Male,CHLEF,Phablet,4G,PREPAYED,NEW,2,0,0,3
+20,Male,SETIF,Phablet,4G,PREPAYED,High Value,12,0,0,7
+25,Male,TIPAZA,Phablet,4G,PREPAYED,Zero Value,20,0,0,7
+28,Male,CONSTANTINE,Phablet,4G,PREPAYED,Zero Value,24,0,4,10
+56,Male,BLIDA,Phablet,4G,PREPAYED,Very Low Value,1,1,16,11
+29,Male,BLIDA,Phablet,4G,PREPAYED,Zero Value,1,0,0,3
+25,Male,ORAN,Phablet,4G,PREPAYED,High Value,21,0,7,1
+35,Female,JIJEL,Phablet,4G,PREPAYED,Very Low Value,4,0,0,4
+34,Male,ALGER,Phablet,4G,PREPAYED,Zero Value,3,0,0,7
+46,Male,MILA,Router,4G,PREPAYED,Very Low Value,18,0,0,4
+45,Male,MSILA,Smartphone,4G,PREPAYED,Very Low Value,14,0,0,9
+66,Male,ANNABA,Phablet,4G,PREPAYED,Very Low Value,29,0,0,10
+47,Male,ORAN,Phablet,4G,PREPAYED,Very Low Value,5,0,0,9
+44,Female,ALGER,Phablet,4G,PREPAYED,Low Value,93,0,0,5
+36,Male,MILA,Feature Phone,4G,PREPAYED,Very Low Value,4,0,0,5
+44,Male,JIJEL,Phablet,4G,PREPAYED,Very Low Value,3,0,1,4
+42,Male,BLIDA,Smartphone,4G,PREPAYED,NEW,1,0,0,3
+51,Male,SKIKDA,Phablet,4G,PREPAYED,Zero Value,1,0,0,7
+37,Male,BOUIRA,Smartphone,4G,PREPAYED,Medium Value,8,0,3,2
+35,Male,BOUIRA,Phablet,4G,PREPAYED,Very Low Value,7,0,0,8
+21,Male,BOUMERDES,Phablet,4G,PREPAYED,High Value,9,0,0,11
+47,Male,TIZI-OUZOU,Phablet,4G,PREPAYED,High Value,5,0,0,4
+33,Male,CHLEF,Phablet,4G,PREPAYED,High Value,23,1,14,5
+68,Female,MEDEA,Phablet,4G,PREPAYED,Very Low Value,3,0,3,9
+25,Female,SETIF,Phablet,4G,PREPAYED,Very Low Value,3,0,0,9
+23,Male,ILLIZI,Phablet,4G,PREPAYED,Very Low Value,11,0,0,6
+38,Male,AIN-DEFLA,Phablet,4G,PREPAYED,Medium Value,14,0,3,10
+58,Male,ALGER,Phablet,4G,PREPAYED,Very Low Value,12,0,0,8
+68,Male,CHLEF,Phablet,4G,PREPAYED,Very Low Value,10,0,0,5
+21,Male,BATNA,Smartphone,4G,PREPAYED,Zero Value,31,0,0,7
+69,Female,SKIKDA,Phablet,4G,PREPAYED,Very Low Value,3,0,6,6
+20,Male,BLIDA,Phablet,4G,PREPAYED,Very Low Value,7,0,0,3
+57,Male,ORAN,Phablet,4G,PREPAYED,NEW,1,0,0,3
+46,Male,BISKRA,Phablet,4G,PREPAYED,Medium Value,5,0,0,4
+34,Male,RELIZANE,Phablet,4G,PREPAYED,Very Low Value,6,0,15,8
+29,Male,SETIF,Phablet,4G,PREPAYED,Zero Value,19,0,0,9
+53,Male,MASCARA,Smartphone,4G,PREPAYED,Zero Value,1,0,17,4
+27,Female,MSILA,Phablet,4G,PREPAYED,NEW,15,0,0,3
+36,Male,ALGER,Phablet,4G,PREPAYED,Very Low Value,13,0,0,7
+31,Male,BATNA,Phablet,4G,PREPAYED,Zero Value,1,0,0,4
+65,Male,BATNA,Smartphone,4G,PREPAYED,Medium Value,17,0,2,4
+33,Male,GHARDAIA,Smartphone,3G,PREPAYED,Very Low Value,35,0,10,3
+24,Male,MEDEA,Phablet,4G,PREPAYED,Zero Value,21,0,1,2
+27,Male,MEDEA,Phablet,4G,PREPAYED,Very High Value,14,0,4,2
+35,Male,BEJAIA,Phablet,4G,PREPAYED,High Value,25,0,15,11
+50,Male,ALGER,Phablet,4G,PREPAYED,Low Value,32,0,6,6
+33,Male,MASCARA,Phablet,3G,PREPAYED,Zero Value,1,0,7,4
+71,Male,OULED-DJELLAL,Smartphone,4G,PREPAYED,Very Low Value,1,0,0,4
+42,Male,ALGER,Phablet,4G,PREPAYED,NEW,1,0,0,3
+38,Male,CONSTANTINE,Smartphone,4G,PREPAYED,Very Low Value,2,0,1,4
+50,Male,TIZI-OUZOU,Smartphone,4G,PREPAYED,Zero Value,1,0,3,11
+50,Male,NAAMA,Smartphone,4G,PREPAYED,NEW,2,0,0,2
+38,Male,DJELFA,Phablet,4G,PREPAYED,Low Value,12,0,0,7
+24,Female,BISKRA,Phablet,4G,PREPAYED,Very High Value,128,0,4,0
+30,Male,ALGER,Phablet,4G,PREPAYED,Very High Value,10,0,1,4
+31,Male,SETIF,Smartphone,4G,PREPAYED,Zero Value,10,0,5,1
+54,Male,OULED-DJELLAL,Phablet,4G,PREPAYED,NEW,2,0,0,2
+23,Male,DJELFA,Phablet,4G,PREPAYED,Zero Value,7,0,0,9
+49,Female,ORAN,Phablet,4G,PREPAYED,NEW,4,0,0,2
+48,Male,BOUMERDES,Phablet,4G,PREPAYED,Low Value,10,0,2,6
+49,Male,GUELMA,Smartphone,4G,PREPAYED,NEW,14,0,0,2
+60,Male,EL-MGHAIER,Phablet,4G,PREPAYED,Zero Value,14,0,0,8
+58,Male,MILA,Phablet,4G,PREPAYED,Medium Value,2,0,1,7
+57,Male,TIZI-OUZOU,Smartphone,4G,PREPAYED,Low Value,5,0,17,11
+41,Male,BEJAIA,Smartphone,4G,PREPAYED,Medium Value,8,0,6,7
+41,Male,AIN-DEFLA,Smartphone,4G,PREPAYED,Very Low Value,2,0,0,8
+39,Male,RELIZANE,Phablet,4G,PREPAYED,Zero Value,2,0,0,5
+60,Male,CONSTANTINE,Phablet,4G,PREPAYED,Zero Value,1,0,0,4
+21,Male,GUELMA,Phablet,4G,PREPAYED,Medium Value,6,0,0,4
+44,Male,RELIZANE,Smartphone,4G,PREPAYED,Zero Value,1,0,0,3
+51,Male,OULED-DJELLAL,Phablet,4G,PREPAYED,Low Value,5,0,0,5
+46,Male,GHARDAIA,Phablet,4G,PREPAYED,NEW,1,0,0,3
+69,Male,ALGER,Phablet,4G,PREPAYED,NEW,1,0,0,3
+22,Male,AIN-TEMOUCHENT,Phablet,4G,PREPAYED,Very Low Value,7,0,0,8
+39,Male,BEJAIA,Smartphone,4G,PREPAYED,High Value,17,0,4,10
+39,Male,AIN-DEFLA,Smartphone,2G,PREPAYED,Low Value,45,0,10,7
+37,Male,MSILA,Phablet,4G,PREPAYED,Zero Value,3,0,0,5
+37,Male,ALGER,Phablet,4G,PREPAYED,Medium Value,9,0,0,9
+52,Male,ALGER,Smartphone,4G,PREPAYED,Zero Value,9,0,2,4
+53,Male,ALGER,Phablet,4G,PREPAYED,Zero Value,5,0,0,8
+53,Male,ORAN,Phablet,4G,PREPAYED,Medium Value,12,0,17,4
+39,Male,SETIF,Phablet,4G,PREPAYED,Medium Value,7,0,14,8
+33,Male,ORAN,Phablet,4G,POSTPAYED,Not Concerned (Postpaid),2,1,13,1
+29,Female,BLIDA,Phablet,4G,PREPAYED,Zero Value,27,0,7,2
+22,Female,ORAN,Phablet,4G,PREPAYED,Very Low Value,2,0,0,7
+45,Male,ANNABA,Smartphone,4G,PREPAYED,Zero Value,2,0,0,3
+23,Male,TEBESSA,Phablet,4G,PREPAYED,Zero Value,11,0,0,6
+57,Male,MEDEA,Phablet,4G,PREPAYED,Low Value,52,0,1,7
+42,Male,TIZI-OUZOU,Phablet,4G,PREPAYED,Very Low Value,3,0,6,6
+37,Male,BORDJ-BOU-ARRERIDJ,Phablet,4G,PREPAYED,Zero Value,7,0,0,5
+52,Male,MOSTAGANEM,Phablet,4G,PREPAYED,Low Value,8,1,7,7
+45,Male,TIZI-OUZOU,Phablet,4G,PREPAYED,Very Low Value,3,0,0,7
+32,Male,TLEMCEN,Phablet,4G,PREPAYED,Zero Value,2,0,0,6
+45,Male,SETIF,Phablet,4G,PREPAYED,Low Value,2,1,16,6
+50,Male,CONSTANTINE,Phablet,4G,PREPAYED,Very Low Value,1,0,0,5
+65,Male,CHLEF,Smartphone,4G,PREPAYED,Medium Value,3,0,17,7
+50,Male,DJELFA,Smartphone,4G,PREPAYED,Very Low Value,8,0,0,5
+24,Male,OUM-EL-BOUAGHI,Phablet,4G,PREPAYED,Very Low Value,7,0,1,6
+31,Male,SOUK-AHRAS,Phablet,4G,PREPAYED,Zero Value,3,0,0,6
+21,Male,DJELFA,Phablet,4G,PREPAYED,Zero Value,41,0,1,3
+45,Male,AIN-DEFLA,Phablet,4G,PREPAYED,Low Value,18,0,0,9
+49,Male,TIZI-OUZOU,Phablet,4G,PREPAYED,Very Low Value,2,0,4,8
+34,Male,AIN-DEFLA,Phablet,4G,PREPAYED,Very Low Value,4,0,2,1
+27,Male,ALGER,Phablet,4G,PREPAYED,Very High Value,15,0,4,10
+32,Female,ORAN,Smartphone,4G,PREPAYED,Very Low Value,4,0,0,6
+18,Male,SKIKDA,Phablet,4G,PREPAYED,Very Low Value,46,0,0,6
+63,Male,JIJEL,Phablet,4G,PREPAYED,High Value,22,0,17,4
+34,Male,SAIDA,Phablet,4G,PREPAYED,Very Low Value,12,0,0,10
+43,Male,EL-OUED,Phablet,4G,PREPAYED,Zero Value,3,0,6,6
+30,Female,BEJAIA,Phablet,4G,PREPAYED,NEW,5,0,0,3
+41,Male,ALGER,Phablet,4G,PREPAYED,Low Value,8,0,4,5
+68,Male,BEJAIA,Smartphone,4G,PREPAYED,Medium Value,8,0,16,5
+30,Female,TIARET,Phablet,4G,PREPAYED,Very Low Value,20,0,5,1
+28,Male,TAMANRASSET,Phablet,4G,PREPAYED,Low Value,9,0,0,5
+57,Female,TISSEMSILT,Feature Phone,4G,PREPAYED,Very Low Value,1,0,1,7
+35,Male,AIN-DEFLA,Phablet,4G,PREPAYED,High Value,5,0,0,4
+39,Male,SKIKDA,Smartphone,4G,PREPAYED,Zero Value,37,0,1,11
+19,Male,DJELFA,Phablet,4G,PREPAYED,Zero Value,44,0,0,7
+22,Male,OUM-EL-BOUAGHI,Phablet,4G,PREPAYED,High Value,17,0,3,0
+72,Male,ORAN,Phablet,3G,PREPAYED,Low Value,1,0,14,5
+38,Male,BOUMERDES,Phablet,4G,PREPAYED,Low Value,5,0,0,7
+60,Male,MSILA,Phablet,4G,PREPAYED,NEW,1,0,0,2
+32,Male,SETIF,Phablet,4G,PREPAYED,Zero Value,1,0,0,3
+38,Male,SIDI-BELABBES,Smartphone,4G,PREPAYED,Very Low Value,1,0,1,9
+40,Male,ORAN,Phablet,4G,PREPAYED,Zero Value,6,0,0,4
+18,Female,SETIF,Phablet,4G,PREPAYED,NEW,3,0,0,2
+32,Male,ALGER,Phablet,4G,PREPAYED,NEW,1,0,0,3
+47,Female,ORAN,Phablet,4G,PREPAYED,Low Value,31,0,5,1
+51,Male,MEDEA,Smartphone,4G,PREPAYED,NEW,13,0,0,2
+43,Male,ORAN,Router,2G,PREPAYED,Low Value,13,0,14,1
+69,Male,SETIF,Phablet,4G,PREPAYED,Medium Value,11,0,3,10
+54,Female,MILA,Phablet,4G,PREPAYED,Very Low Value,9,0,1,7
+45,Female,TIZI-OUZOU,Smartphone,4G,PREPAYED,Low Value,4,0,13,0
+42,Male,MOSTAGANEM,Smartphone,2G,PREPAYED,Medium Value,29,1,17,9
+40,Male,RELIZANE,Phablet,4G,PREPAYED,Very Low Value,9,0,2,0
+59,Male,MEDEA,Phablet,4G,PREPAYED,High Value,2,0,0,11
+30,Male,MOSTAGANEM,Smartphone,4G,PREPAYED,Very Low Value,24,0,10,10
+36,Female,MOSTAGANEM,Phablet,4G,PREPAYED,Low Value,20,0,5,1
+60,Male,SKIKDA,Smartphone,4G,PREPAYED,Zero Value,2,0,0,8
+42,Male,MEDEA,Smartphone,4G,PREPAYED,Medium Value,2,0,5,5
+38,Male,MOSTAGANEM,Phablet,4G,PREPAYED,Medium Value,3,0,16,7
+26,Male,BORDJ-BOU-ARRERIDJ,Phablet,4G,PREPAYED,Zero Value,2,0,0,5
+57,Male,TIPAZA,Feature Phone,4G,PREPAYED,Very Low Value,5,0,0,8
+40,Female,MILA,Phablet,4G,HYBRID,Not Concerned (Postpaid),1,0,7,6
+30,Male,MSILA,Phablet,4G,PREPAYED,Very Low Value,2,0,0,9
+36,Male,ALGER,Phablet,4G,PREPAYED,NEW,1,0,0,2
+28,Male,TIARET,Phablet,4G,PREPAYED,Very Low Value,8,0,0,6
+30,Male,SKIKDA,Phablet,3G,PREPAYED,Very Low Value,24,0,8,3
+58,Male,MEDEA,Smartphone,3G,PREPAYED,Low Value,7,0,15,7
+26,Male,TLEMCEN,Smartphone,4G,PREPAYED,NEW,27,0,0,3
+30,Male,ALGER,Phablet,4G,PREPAYED,NEW,1,0,0,3
+39,Male,TIARET,Phablet,4G,PREPAYED,Very Low Value,2,0,16,0
+30,Male,EL-OUED,Phablet,4G,PREPAYED,Zero Value,2,0,3,7
+49,Male,BEJAIA,Phablet,4G,PREPAYED,NEW,2,0,0,2
+50,Male,GUELMA,Phablet,4G,PREPAYED,Low Value,3,0,0,10
+26,Female,BLIDA,Phablet,4G,PREPAYED,Medium Value,5,0,0,4
+58,Female,MASCARA,Phablet,4G,PREPAYED,NEW,2,0,0,3
+26,Male,MASCARA,Smartphone,4G,PREPAYED,Zero Value,4,0,7,11
+30,Female,CONSTANTINE,Smartphone,4G,PREPAYED,Very Low Value,5,0,4,10
+28,Male,CHLEF,Phablet,4G,PREPAYED,Low Value,2,0,1,10
+38,Male,ALGER,Phablet,4G,PREPAYED,Medium Value,5,0,0,4
+22,Female,TOUGGOURT,Phablet,4G,PREPAYED,Zero Value,6,0,0,6
+55,Male,NAAMA,Smartphone,4G,PREPAYED,Very Low Value,8,0,0,7
+34,Male,CONSTANTINE,Phablet,4G,PREPAYED,Zero Value,1,0,0,5
+48,Male,ANNABA,Phablet,4G,PREPAYED,Medium Value,37,0,0,5
+44,Male,CONSTANTINE,Phablet,4G,PREPAYED,Medium Value,2,0,0,3
+51,Male,TLEMCEN,Phablet,4G,PREPAYED,Low Value,8,1,10,1
+51,Male,BORDJ-BOU-ARRERIDJ,Phablet,4G,PREPAYED,Zero Value,10,0,0,5
+36,Male,OUM-EL-BOUAGHI,Phablet,4G,PREPAYED,Zero Value,6,0,14,7
+41,Male,TIARET,Phablet,4G,PREPAYED,Very Low Value,3,0,0,3
+57,Male,AIN-TEMOUCHENT,Phablet,4G,PREPAYED,Very Low Value,24,0,0,8
+49,Male,SETIF,Phablet,4G,PREPAYED,Very Low Value,3,0,0,3
+31,Male,ALGER,Smartphone,4G,PREPAYED,Very High Value,194,0,3,2
+48,Female,TLEMCEN,Smartphone,4G,PREPAYED,Zero Value,3,0,0,8
+23,Female,OUM-EL-BOUAGHI,Phablet,4G,PREPAYED,Very Low Value,42,0,0,9
+53,Male,MEDEA,Phablet,4G,PREPAYED,Very Low Value,25,0,0,6
+21,Male,OULED-DJELLAL,Phablet,4G,PREPAYED,Low Value,8,0,0,6
+56,Male,BORDJ-BOU-ARRERIDJ,Phablet,4G,PREPAYED,Very Low Value,33,0,17,8
+45,Male,SIDI-BELABBES,Feature Phone,3G,PREPAYED,Very Low Value,5,0,8,1
+58,Male,ALGER,Phablet,4G,PREPAYED,Zero Value,2,0,0,7
+42,Male,TIARET,Phablet,4G,PREPAYED,Very Low Value,4,0,14,8
+37,Male,BOUIRA,Smartphone,4G,PREPAYED,Very Low Value,2,0,0,4
+33,Male,BLIDA,Phablet,4G,PREPAYED,Very Low Value,3,0,4,10
+21,Male,AIN-DEFLA,Phablet,4G,PREPAYED,Very Low Value,80,0,0,9
+65,Male,MSILA,Smartphone,3G,PREPAYED,Zero Value,9,0,7,10
+30,Female,MOSTAGANEM,Phablet,4G,PREPAYED,Zero Value,1,0,0,3
+40,Male,MOSTAGANEM,Smartphone,4G,PREPAYED,Medium Value,2,0,3,8
+40,Female,BEJAIA,Phablet,4G,PREPAYED,High Value,23,0,2,4
+25,Male,BEJAIA,Phablet,4G,PREPAYED,Low Value,5,1,4,0
+49,Male,TLEMCEN,Phablet,4G,PREPAYED,Low Value,28,0,0,7
+20,Male,ORAN,Phablet,4G,PREPAYED,NEW,76,0,0,3
+43,Female,MSILA,Phablet,4G,PREPAYED,Very Low Value,1,0,13,2
+37,Male,GUELMA,Phablet,4G,PREPAYED,Zero Value,12,0,0,7
+24,Male,BOUIRA,Phablet,4G,PREPAYED,High Value,4,0,0,4
+44,Male,BISKRA,Phablet,4G,PREPAYED,Low Value,7,0,4,6
+43,Female,CHLEF,Phablet,4G,PREPAYED,Very Low Value,26,0,0,7
+32,Female,ALGER,Phablet,4G,HYBRID,Not Concerned (Postpaid),5,1,2,1
+60,Female,MASCARA,Feature Phone,4G,PREPAYED,Medium Value,7,0,0,6
+19,Male,ALGER,Phablet,4G,PREPAYED,Zero Value,2,0,0,4
+49,Female,BISKRA,Tablet,4G,PREPAYED,Zero Value,10,0,0,5
+32,Male,ALGER,Phablet,4G,PREPAYED,Low Value,20,0,17,7
+60,Male,EL-BAYADH,Smartphone,4G,PREPAYED,Very Low Value,14,0,1,8
+47,Male,SKIKDA,Phablet,4G,PREPAYED,NEW,2,0,0,2
+32,Male,NAAMA,Phablet,4G,PREPAYED,NEW,1,0,0,3
+68,Male,SETIF,Phablet,4G,PREPAYED,Very Low Value,4,0,8,4
+23,Male,TLEMCEN,Phablet,4G,PREPAYED,Medium Value,16,1,1,0
+44,Male,BOUMERDES,Phablet,4G,PREPAYED,Very High Value,249,0,3,0
+48,Male,BEJAIA,Phablet,4G,PREPAYED,High Value,4,0,13,11
+40,Male,BLIDA,Phablet,4G,PREPAYED,Low Value,8,0,0,5
+64,Male,BLIDA,Smartphone,4G,PREPAYED,Low Value,3,0,14,0
+43,Male,CONSTANTINE,Phablet,4G,PREPAYED,Low Value,43,0,3,8
+58,Male,SETIF,Feature Phone,4G,PREPAYED,Very Low Value,9,0,5,1
+32,Male,MSILA,Smartphone,4G,PREPAYED,Zero Value,1,0,0,3
+26,Male,OUM-EL-BOUAGHI,Phablet,4G,PREPAYED,Very High Value,108,0,0,5
+31,Male,RELIZANE,Phablet,4G,PREPAYED,Low Value,8,0,5,3
+33,Female,ANNABA,Smartphone,4G,PREPAYED,Very Low Value,12,0,0,8
+36,Male,BATNA,Phablet,4G,PREPAYED,Low Value,6,0,3,9
+22,Male,BEJAIA,Smartphone,4G,PREPAYED,Very Low Value,3,0,0,10
+19,Male,AIN-DEFLA,Phablet,4G,PREPAYED,High Value,76,0,0,5
+75,Male,ALGER,Smartphone,2G,PREPAYED,Very Low Value,6,0,10,8
+74,Male,MOSTAGANEM,Phablet,4G,PREPAYED,Zero Value,3,0,0,6
+36,Male,RELIZANE,Feature Phone,4G,PREPAYED,NEW,13,0,0,2
+74,Female,ALGER,Phablet,4G,PREPAYED,Low Value,9,0,5,3
+26,Male,BLIDA,Phablet,4G,PREPAYED,NEW,19,0,0,2
+56,Male,ALGER,Phablet,4G,PREPAYED,Very Low Value,18,0,1,6
+47,Female,MASCARA,Smartphone,4G,PREPAYED,Very Low Value,3,0,1,2
+74,Male,TISSEMSILT,Smartphone,4G,PREPAYED,Very Low Value,1,1,7,3
+21,Female,CONSTANTINE,Phablet,4G,PREPAYED,NEW,4,0,0,2
+22,Male,SETIF,Phablet,4G,PREPAYED,Medium Value,19,0,1,0
+21,Male,MEDEA,Phablet,4G,PREPAYED,Zero Value,31,0,0,9
+34,Male,DJELFA,Feature Phone,4G,PREPAYED,Zero Value,1,0,0,7
+41,Male,ORAN,Smartphone,4G,PREPAYED,Very Low Value,2,0,5,6
+50,Male,CHLEF,Phablet,4G,PREPAYED,Zero Value,3,0,0,5
+22,Female,MASCARA,Phablet,4G,PREPAYED,NEW,1,0,0,3
+38,Male,MASCARA,Phablet,4G,PREPAYED,Low Value,1,0,3,7
+24,Male,AIN-DEFLA,Smartphone,4G,PREPAYED,Very High Value,200,0,1,4
+49,Male,CONSTANTINE,Smartphone,4G,PREPAYED,Very Low Value,28,0,0,7
+22,Female,MEDEA,Phablet,4G,PREPAYED,Very Low Value,2,0,0,8
+20,Male,DJELFA,Smartphone,4G,PREPAYED,NEW,10,0,0,3
+43,Male,MEDEA,Smartphone,4G,PREPAYED,High Value,19,0,0,4
+28,Male,TIARET,Smartphone,4G,PREPAYED,Very Low Value,30,0,2,7
+40,Male,MASCARA,Phablet,3G,PREPAYED,Zero Value,8,0,7,5
+20,Female,BOUMERDES,Phablet,4G,PREPAYED,Very Low Value,3,0,0,10
+56,Male,ALGER,Phablet,4G,PREPAYED,Very Low Value,88,0,1,4
+42,Male,MASCARA,Phablet,4G,PREPAYED,Very Low Value,8,0,5,1
+36,Male,SKIKDA,Phablet,4G,PREPAYED,Very Low Value,1,0,0,5
+71,Male,AIN-DEFLA,Smartphone,4G,PREPAYED,Medium Value,9,1,14,5
+26,Female,MOSTAGANEM,Phablet,3G,PREPAYED,Very Low Value,4,0,7,3
+66,Male,ORAN,Phablet,4G,PREPAYED,Medium Value,2,0,20,5
+48,Male,CONSTANTINE,Phablet,4G,PREPAYED,Low Value,7,2,4,10
+64,Female,BLIDA,Phablet,4G,PREPAYED,Low Value,15,1,2,2
+22,Male,OUARGLA,Phablet,4G,PREPAYED,Zero Value,28,0,1,0
+39,Male,BATNA,Phablet,4G,PREPAYED,Very Low Value,2,0,0,5
+35,Male,GUELMA,Phablet,4G,PREPAYED,Low Value,1,0,5,5
+59,Male,RELIZANE,Phablet,4G,PREPAYED,Zero Value,3,0,0,5
+49,Male,BOUMERDES,Phablet,4G,PREPAYED,NEW,1,0,0,3
+20,Male,AIN-DEFLA,Phablet,4G,PREPAYED,Zero Value,2,0,0,6
+30,Male,MSILA,Phablet,4G,PREPAYED,Zero Value,2,1,2,11
+57,Male,MILA,Smartphone,2G,PREPAYED,Very Low Value,7,0,14,5
+42,Male,TIZI-OUZOU,Feature Phone,2G,PREPAYED,Low Value,7,0,18,0
+38,Female,ORAN,Smartphone,4G,PREPAYED,Medium Value,5,0,0,6
+38,Male,ALGER,Phablet,4G,HYBRID,Not Concerned (Postpaid),2,0,15,4
+54,Male,ALGER,Phablet,4G,PREPAYED,Very Low Value,8,0,0,9
+28,Male,ORAN,Phablet,4G,HYBRID,Not Concerned (Postpaid),4,2,6,6
+47,Female,ANNABA,Feature Phone,4G,PREPAYED,Low Value,1,1,17,11
+19,Male,AIN-DEFLA,Smartphone,4G,PREPAYED,Zero Value,3,0,0,4
+69,Male,CHLEF,Smartphone,4G,PREPAYED,Very Low Value,1,0,0,5
+48,Male,ORAN,Smartphone,4G,PREPAYED,Zero Value,30,2,0,9
+19,Male,CHLEF,Phablet,4G,PREPAYED,Zero Value,2,0,0,6
+40,Male,SAIDA,Smartphone,3G,PREPAYED,Very Low Value,1,0,10,4
+21,Male,BISKRA,Phablet,4G,PREPAYED,Low Value,9,0,1,6
+68,Female,BOUMERDES,Feature Phone,2G,PREPAYED,Zero Value,4,0,12,3
+41,Male,JIJEL,Tablet,4G,PREPAYED,Low Value,7,0,9,6
+41,Male,ALGER,Phablet,4G,PREPAYED,NEW,1,0,0,3
+20,Male,ALGER,Phablet,4G,PREPAYED,Very Low Value,25,0,0,8
+40,Male,ORAN,Phablet,4G,PREPAYED,Low Value,6,0,0,6
+44,Female,MOSTAGANEM,Phablet,4G,PREPAYED,Very Low Value,10,0,0,4
+40,Male,MEDEA,Smartphone,2G,PREPAYED,Low Value,8,0,16,3
+51,Male,CHLEF,Phablet,4G,PREPAYED,Medium Value,8,0,4,3
+44,Male,SETIF,Phablet,4G,PREPAYED,Very Low Value,3,0,6,1
+19,Male,SKIKDA,Phablet,4G,PREPAYED,Very Low Value,21,0,0,6
+22,Female,ORAN,Phablet,4G,PREPAYED,Very Low Value,16,0,1,3
+42,Male,AIN-DEFLA,Phablet,4G,PREPAYED,Zero Value,22,0,3,4
+51,Male,GUELMA,Phablet,4G,PREPAYED,Zero Value,4,0,0,4
+38,Female,ORAN,Phablet,3G,PREPAYED,Low Value,14,1,6,7
+54,Male,ORAN,Phablet,4G,PREPAYED,Low Value,6,0,0,6
+24,Female,ALGER,Phablet,4G,PREPAYED,NEW,1,0,0,2
+49,Male,BISKRA,Phablet,4G,PREPAYED,High Value,59,0,1,4
+59,Male,MILA,Phablet,4G,PREPAYED,NEW,2,0,0,3
+53,Male,MILA,Phablet,4G,PREPAYED,Very Low Value,2,0,0,4
+21,Male,RELIZANE,Phablet,4G,PREPAYED,Low Value,9,0,0,3
+31,Female,CONSTANTINE,Phablet,4G,PREPAYED,NEW,1,0,0,2
+58,Male,CONSTANTINE,Smartphone,2G,PREPAYED,Low Value,2,0,20,3
+49,Male,AIN-TEMOUCHENT,Phablet,4G,PREPAYED,Very Low Value,3,0,0,4
+39,Male,BOUMERDES,Phablet,4G,PREPAYED,Low Value,9,0,6,3
+77,Male,JIJEL,Phablet,4G,PREPAYED,Very Low Value,1,0,15,1
+40,Male,TIARET,Smartphone,3G,PREPAYED,Low Value,5,0,7,0
+72,Male,MILA,Smartphone,2G,PREPAYED,Very Low Value,6,0,15,1
+59,Male,SETIF,Phablet,4G,PREPAYED,Zero Value,29,0,0,8
+23,Male,RELIZANE,Smartphone,4G,PREPAYED,Zero Value,1,0,0,4
+24,Male,OUM-EL-BOUAGHI,Phablet,4G,HYBRID,Not Concerned (Postpaid),1,1,5,5
+33,Male,MILA,Phablet,4G,PREPAYED,Medium Value,37,1,1,11
+72,Male,SETIF,Smartphone,2G,PREPAYED,Very Low Value,5,0,9,0
+33,Male,MOSTAGANEM,Phablet,4G,PREPAYED,Zero Value,3,0,2,6
+41,Female,MOSTAGANEM,Phablet,4G,PREPAYED,Very Low Value,10,0,7,6
+20,Female,BEJAIA,Phablet,4G,PREPAYED,Medium Value,6,0,0,4
+53,Male,EL-BAYADH,Smartphone,4G,PREPAYED,Medium Value,15,0,1,0
+42,Female,BATNA,Phablet,2G,PREPAYED,Low Value,1,0,11,11
+41,Male,DJELFA,Smartphone,4G,PREPAYED,Very Low Value,7,0,1,6
+44,Male,ALGER,Phablet,4G,PREPAYED,Zero Value,31,0,0,9
+30,Male,CHLEF,Smartphone,4G,PREPAYED,Low Value,2,0,11,3
+43,Male,MOSTAGANEM,Smartphone,4G,PREPAYED,Medium Value,4,0,0,4
+30,Male,MILA,Phablet,4G,PREPAYED,Very Low Value,1,0,0,4
+60,Male,MASCARA,Feature Phone,4G,PREPAYED,Very Low Value,6,0,12,8
+59,Male,BORDJ-BOU-ARRERIDJ,Tablet,4G,PREPAYED,NEW,1,0,0,3
+60,Male,AIN-TEMOUCHENT,Phablet,4G,PREPAYED,Zero Value,20,0,0,6
+23,Male,BORDJ-BOU-ARRERIDJ,Phablet,4G,PREPAYED,Very Low Value,1,0,0,8
+35,Male,SKIKDA,Phablet,4G,PREPAYED,Zero Value,9,0,1,11
+76,Male,ALGER,Phablet,4G,PREPAYED,Low Value,99,0,2,8
+40,Male,CONSTANTINE,Phablet,3G,PREPAYED,Zero Value,1,0,6,8
+69,Male,ORAN,Phablet,4G,PREPAYED,Low Value,7,0,18,5
+60,Male,MOSTAGANEM,Phablet,4G,PREPAYED,Low Value,3,0,1,6
+20,Male,EL-BAYADH,Phablet,4G,PREPAYED,Very Low Value,66,0,0,10
+80,Male,ALGER,Phablet,4G,PREPAYED,Low Value,11,0,5,2
+39,Male,MSILA,Tablet,2G,PREPAYED,Very Low Value,10,0,16,11
+54,Male,BORDJ-BOU-ARRERIDJ,Smartphone,4G,PREPAYED,Very Low Value,7,0,15,7
+48,Male,GUELMA,Phablet,4G,PREPAYED,Very Low Value,34,0,0,9
+26,Female,EL-OUED,Phablet,4G,PREPAYED,Very Low Value,16,0,0,8
+41,Male,BISKRA,Phablet,4G,PREPAYED,Low Value,14,0,5,4
+81,Male,BATNA,Smartphone,4G,PREPAYED,Very Low Value,1,0,0,5
+39,Male,BOUIRA,Smartphone,4G,PREPAYED,Very Low Value,4,0,15,2
+26,Male,CHLEF,Phablet,4G,PREPAYED,Medium Value,7,0,0,4
+32,Male,MSILA,Phablet,4G,PREPAYED,NEW,1,0,0,3
+68,Male,BORDJ-BOU-ARRERIDJ,Smartphone,2G,PREPAYED,Zero Value,1,0,19,8
+30,Male,OUM-EL-BOUAGHI,Smartphone,4G,PREPAYED,Low Value,6,0,4,10
+46,Female,MASCARA,Smartphone,2G,PREPAYED,Zero Value,1,0,8,11
+31,Male,MEDEA,Phablet,4G,PREPAYED,Very Low Value,33,0,1,1
+27,Male,MASCARA,Phablet,4G,PREPAYED,Very Low Value,1,0,0,7
+32,Male,BORDJ-BOU-ARRERIDJ,Smartphone,4G,PREPAYED,Very Low Value,4,0,0,5
+35,Male,RELIZANE,Phablet,4G,PREPAYED,High Value,34,0,4,6
+39,Male,ALGER,Phablet,4G,PREPAYED,Very Low Value,1,0,0,3
+56,Male,MSILA,Phablet,4G,PREPAYED,Zero Value,4,0,0,7
+37,Male,RELIZANE,Phablet,4G,PREPAYED,Medium Value,23,1,13,1
+27,Male,ALGER,Phablet,4G,PREPAYED,Medium Value,1,0,2,1
+47,Male,AIN-TEMOUCHENT,Phablet,4G,PREPAYED,High Value,28,0,0,9
+27,Male,SETIF,Phablet,4G,PREPAYED,Very Low Value,4,0,3,10
+29,Female,TEBESSA,Phablet,4G,PREPAYED,Zero Value,9,0,0,5
+45,Male,BEJAIA,Phablet,4G,PREPAYED,Low Value,8,0,0,8
+44,Male,BEJAIA,Phablet,4G,PREPAYED,Very Low Value,8,0,0,5
+42,Male,AIN-DEFLA,Phablet,4G,PREPAYED,High Value,73,0,4,0
+37,Male,AIN-TEMOUCHENT,Smartphone,4G,PREPAYED,Medium Value,3,0,4,0
+23,Male,MSILA,Smartphone,4G,PREPAYED,Very Low Value,4,0,0,3
+25,Male,RELIZANE,Phablet,4G,PREPAYED,Very Low Value,6,0,0,3
+50,Male,ALGER,Phablet,4G,PREPAYED,Low Value,104,0,1,8
+48,Male,ALGER,Phablet,4G,PREPAYED,Zero Value,1,0,0,4
+45,Male,MSILA,Smartphone,4G,PREPAYED,Low Value,20,0,0,7
+49,Male,MILA,Phablet,4G,PREPAYED,Low Value,10,0,0,5
+49,Male,BLIDA,Feature Phone,2G,PREPAYED,High Value,9,1,18,5
+70,Male,SIDI-BELABBES,Phablet,4G,PREPAYED,Zero Value,6,0,0,8
+65,Male,BATNA,Phablet,2G,PREPAYED,Low Value,1,0,18,10
+37,Male,TAMANRASSET,Phablet,4G,PREPAYED,Low Value,83,0,2,9
+31,Male,ORAN,Phablet,4G,PREPAYED,Very High Value,84,0,0,8
+56,Male,OUM-EL-BOUAGHI,Smartphone,4G,PREPAYED,Medium Value,124,1,13,6
+35,Male,ALGER,Phablet,4G,PREPAYED,Very Low Value,25,0,0,4
+48,Male,MSILA,UNKNOWN,2G,PREPAYED,Low Value,12,1,16,5
+48,Male,BISKRA,Feature Phone,4G,PREPAYED,Very Low Value,3,0,3,6
+57,Male,TLEMCEN,Smartphone,4G,PREPAYED,Low Value,25,0,1,2
+24,Female,MSILA,Phablet,4G,PREPAYED,Low Value,5,0,0,4
+21,Male,BLIDA,Phablet,4G,PREPAYED,Low Value,8,0,4,0
+44,Male,MASCARA,Phablet,4G,PREPAYED,Zero Value,1,0,0,7
+30,Female,SETIF,Phablet,4G,PREPAYED,Zero Value,1,0,0,6
+30,Male,BOUMERDES,Phablet,4G,PREPAYED,Low Value,20,0,1,7
+40,Male,SOUK-AHRAS,Smartphone,4G,PREPAYED,Medium Value,6,0,0,5
+35,Male,SETIF,Phablet,4G,PREPAYED,Very Low Value,1,0,0,7
+53,Male,SAIDA,Phablet,4G,PREPAYED,Very Low Value,1,0,0,4
+39,Female,CONSTANTINE,Phablet,4G,PREPAYED,Zero Value,2,0,0,7
+40,Male,MILA,Feature Phone,4G,PREPAYED,Very Low Value,1,1,12,2
+21,Male,OULED-DJELLAL,Phablet,4G,PREPAYED,High Value,17,0,0,6
+20,Female,AIN-TEMOUCHENT,Phablet,4G,PREPAYED,Zero Value,1,0,0,6
+68,Male,SAIDA,Smartphone,4G,PREPAYED,Very Low Value,1,0,0,5
+21,Male,RELIZANE,Phablet,4G,PREPAYED,NEW,6,0,0,2
+23,Female,BOUMERDES,Phablet,4G,PREPAYED,NEW,1,0,0,2
+40,Male,BORDJ-BOU-ARRERIDJ,Smartphone,4G,PREPAYED,Medium Value,17,0,5,7
+31,Male,TIZI-OUZOU,Phablet,4G,PREPAYED,Very Low Value,2,0,0,5
+54,Male,BLIDA,Phablet,4G,PREPAYED,Low Value,59,0,5,8
+42,Male,EL-TARF,Phablet,4G,PREPAYED,Low Value,5,0,1,5
+36,Male,JIJEL,Smartphone,4G,PREPAYED,Medium Value,7,0,1,1
+34,Male,BEJAIA,Smartphone,4G,PREPAYED,Very Low Value,1,0,0,7
+64,Male,AIN-DEFLA,Smartphone,4G,PREPAYED,Very Low Value,1,0,17,0
+44,Male,BEJAIA,Phablet,4G,PREPAYED,High Value,39,0,1,9
+29,Male,BEJAIA,Phablet,4G,PREPAYED,Very Low Value,3,0,0,8
+52,Male,ALGER,Phablet,4G,PREPAYED,Zero Value,7,0,0,3
+26,Female,CONSTANTINE,Phablet,4G,PREPAYED,Very Low Value,23,0,2,6
+57,Male,AIN-DEFLA,UNKNOWN,4G,PREPAYED,NEW,5,0,0,0
+49,Male,BOUMERDES,Phablet,4G,PREPAYED,NEW,1,0,0,3
+40,Female,ORAN,Phablet,4G,PREPAYED,High Value,16,0,0,5
+62,Male,BATNA,Smartphone,4G,PREPAYED,Very Low Value,5,1,16,4
+22,Male,BOUMERDES,Smartphone,4G,PREPAYED,NEW,1,0,0,2
+33,Male,BATNA,Phablet,4G,PREPAYED,Very High Value,11,2,2,8
+42,Male,SAIDA,Phablet,4G,PREPAYED,Low Value,1,1,12,7
+25,Male,SAIDA,Phablet,4G,PREPAYED,Medium Value,60,0,5,0
+75,Female,MOSTAGANEM,Smartphone,4G,PREPAYED,Low Value,8,0,15,10
+33,Male,ORAN,Phablet,4G,PREPAYED,NEW,3,0,0,2
+45,Male,ALGER,Phablet,4G,PREPAYED,NEW,1,0,0,3
+48,Male,MEDEA,Tablet,4G,PREPAYED,Very Low Value,1,0,1,2
+44,Male,BLIDA,Phablet,4G,PREPAYED,Zero Value,5,0,0,6
+76,Male,BOUIRA,Tablet,2G,PREPAYED,Medium Value,10,0,12,3
+64,Male,GUELMA,Tablet,4G,PREPAYED,High Value,5,0,0,4
+19,Male,DJELFA,Feature Phone,4G,PREPAYED,Zero Value,6,0,0,9
+30,Male,NAAMA,Smartphone,4G,PREPAYED,Very Low Value,7,0,0,8
+34,Male,TLEMCEN,UNKNOWN,4G,PREPAYED,NEW,1,0,0,0
+51,Male,RELIZANE,Phablet,4G,PREPAYED,Medium Value,18,0,0,5
+36,Male,JIJEL,Phablet,4G,PREPAYED,Medium Value,11,0,17,4
+19,Male,BLIDA,Phablet,4G,PREPAYED,Medium Value,20,0,3,9
+43,Male,SKIKDA,Phablet,4G,PREPAYED,Medium Value,27,0,6,0
+22,Female,SETIF,Smartphone,4G,PREPAYED,Very Low Value,52,0,0,6
+23,Male,AIN-DEFLA,Smartphone,4G,PREPAYED,Very Low Value,6,0,1,4
+32,Female,ANNABA,Phablet,2G,PREPAYED,Low Value,2,0,8,6
+62,Male,AIN-DEFLA,Phablet,4G,PREPAYED,Medium Value,8,0,17,6
+31,Male,TLEMCEN,Phablet,4G,PREPAYED,Zero Value,1,0,0,9
+22,Male,BEJAIA,Smartphone,4G,PREPAYED,Low Value,1,0,0,3
+56,Male,AIN-DEFLA,Phablet,4G,PREPAYED,Very Low Value,23,0,0,4
+41,Female,MEDEA,Phablet,4G,PREPAYED,Low Value,4,0,1,5
+30,Male,MSILA,Phablet,4G,PREPAYED,Low Value,16,0,4,3
+51,Male,CHLEF,Smartphone,4G,PREPAYED,Low Value,5,0,8,8
+24,Female,ALGER,Phablet,4G,PREPAYED,Zero Value,6,0,0,6
+58,Male,ALGER,Phablet,4G,PREPAYED,Low Value,4,0,0,5
+48,Female,ADRAR,Phablet,4G,PREPAYED,Medium Value,18,0,15,4
+35,Female,ORAN,Phablet,4G,PREPAYED,High Value,23,0,0,8
+46,Female,CONSTANTINE,Phablet,4G,PREPAYED,Very Low Value,3,0,0,5
+26,Male,CHLEF,Phablet,2G,PREPAYED,Low Value,3,0,9,8
+34,Male,ALGER,Phablet,4G,PREPAYED,NEW,2,0,0,3
+25,Male,DJELFA,Phablet,4G,PREPAYED,Very Low Value,2,0,0,4
+23,Male,BATNA,Phablet,4G,PREPAYED,Low Value,68,0,0,8
+22,Male,ORAN,Smartphone,4G,PREPAYED,High Value,55,0,0,4
+35,Female,OUARGLA,Phablet,4G,PREPAYED,Medium Value,9,0,6,1
+70,Male,DJELFA,Phablet,4G,PREPAYED,Zero Value,20,0,0,6
+47,Female,BATNA,Phablet,4G,PREPAYED,Zero Value,6,0,0,4
+53,Male,MSILA,Smartphone,4G,PREPAYED,Very Low Value,10,0,0,3
+47,Female,TIZI-OUZOU,Phablet,4G,PREPAYED,Very Low Value,40,0,5,1
+33,Male,BLIDA,Phablet,4G,PREPAYED,Zero Value,3,0,0,9
+33,Male,SETIF,Phablet,4G,PREPAYED,Low Value,6,0,3,2
+39,Female,SETIF,Phablet,4G,PREPAYED,High Value,3,0,18,5
+46,Female,ORAN,Smartphone,4G,PREPAYED,Very Low Value,5,0,0,7
+33,Male,NAAMA,Smartphone,4G,PREPAYED,Very Low Value,2,0,1,9
+43,Female,ALGER,Phablet,4G,PREPAYED,Medium Value,15,0,0,4
+46,Male,EL-BAYADH,Smartphone,4G,PREPAYED,NEW,5,0,0,3
+58,Male,SETIF,Phablet,4G,PREPAYED,Low Value,26,0,0,7
+30,Male,TIZI-OUZOU,Smartphone,4G,PREPAYED,Very Low Value,1,0,0,4
+71,Male,MILA,Phablet,4G,PREPAYED,NEW,3,0,0,2
+47,Male,BOUMERDES,Smartphone,4G,PREPAYED,Medium Value,7,0,4,10
+29,Male,SIDI-BELABBES,Phablet,4G,PREPAYED,Zero Value,1,0,0,6
+55,Female,MSILA,Phablet,4G,PREPAYED,Low Value,15,0,0,4
+20,Male,BOUMERDES,Phablet,4G,PREPAYED,Very Low Value,1,0,0,8
+23,Male,SKIKDA,Smartphone,4G,PREPAYED,NEW,2,0,0,3
+29,Male,SOUK-AHRAS,Phablet,4G,PREPAYED,Very Low Value,30,1,3,5
+53,Male,MSILA,Phablet,4G,PREPAYED,Low Value,37,0,0,7
+50,Male,JIJEL,Phablet,4G,PREPAYED,Low Value,7,0,18,5
+35,Female,TIARET,Phablet,4G,PREPAYED,Very Low Value,1,0,0,9
+43,Male,ALGER,Phablet,4G,PREPAYED,Very Low Value,1,0,0,6
+20,Male,BEJAIA,Phablet,4G,PREPAYED,Zero Value,2,0,0,4
+63,Male,ALGER,Phablet,4G,PREPAYED,NEW,5,0,0,2
+29,Male,SKIKDA,Phablet,4G,PREPAYED,Very Low Value,5,1,0,10
+39,Female,MSILA,Phablet,4G,PREPAYED,High Value,24,0,0,9
+33,Male,SIDI-BELABBES,Phablet,4G,PREPAYED,Zero Value,25,0,5,5
+25,Male,CONSTANTINE,Phablet,4G,PREPAYED,Very Low Value,22,0,7,10
+45,Male,MASCARA,Phablet,4G,PREPAYED,Very Low Value,23,0,0,9
+46,Male,ORAN,Phablet,4G,PREPAYED,Zero Value,4,0,0,5
+23,Male,ALGER,Smartphone,4G,PREPAYED,Medium Value,32,1,1,9
+53,Female,SKIKDA,Phablet,4G,PREPAYED,Low Value,5,0,0,3
+33,Male,BOUIRA,Phablet,4G,PREPAYED,High Value,16,0,8,5
+37,Male,SETIF,Phablet,4G,PREPAYED,Very Low Value,3,0,0,4
+29,Male,MOSTAGANEM,Phablet,4G,PREPAYED,Low Value,24,0,3,4
+23,Male,SETIF,Phablet,4G,PREPAYED,NEW,2,0,0,3
+20,Male,OUARGLA,Phablet,4G,PREPAYED,Very Low Value,14,0,0,8
+24,Male,ORAN,Phablet,4G,PREPAYED,High Value,14,0,1,10
+67,Male,TIARET,Smartphone,4G,PREPAYED,Very Low Value,10,1,17,10
+60,Male,BORDJ-BOU-ARRERIDJ,Phablet,4G,PREPAYED,Low Value,2,0,7,7
+36,Male,BOUMERDES,Feature Phone,3G,PREPAYED,Low Value,7,0,7,9
+77,Male,MASCARA,Phablet,4G,PREPAYED,Zero Value,5,0,1,0
+64,Male,ALGER,Phablet,4G,PREPAYED,NEW,4,0,0,2
+37,Male,MASCARA,Smartphone,4G,PREPAYED,High Value,19,0,0,6
+33,Male,MOSTAGANEM,Smartphone,4G,PREPAYED,Low Value,42,0,0,9
+41,Male,ALGER,Phablet,4G,PREPAYED,Very Low Value,8,0,0,3
+48,Male,BORDJ-BADJI-MOKHTAR,Phablet,4G,PREPAYED,NEW,3,0,0,2
+42,Male,AIN-TEMOUCHENT,Phablet,4G,PREPAYED,Very Low Value,9,0,0,3
+51,Male,BISKRA,Phablet,4G,PREPAYED,Very Low Value,39,0,0,6
+32,Male,BEJAIA,Phablet,4G,PREPAYED,Medium Value,13,0,8,4
+42,Male,ORAN,Feature Phone,4G,PREPAYED,Medium Value,18,0,4,7
+19,Female,ALGER,Phablet,4G,PREPAYED,NEW,4,0,0,2
+38,Male,SETIF,Phablet,4G,PREPAYED,Low Value,5,0,3,6
+49,Male,ORAN,Phablet,4G,PREPAYED,High Value,5,0,0,4
+56,Male,TIARET,Phablet,4G,PREPAYED,Very Low Value,87,0,1,0
+51,Male,MSILA,Phablet,4G,PREPAYED,Zero Value,1,0,0,5
+58,Female,SAIDA,Phablet,4G,PREPAYED,Very Low Value,11,0,14,9
+35,Male,BEJAIA,Feature Phone,4G,PREPAYED,Low Value,5,0,0,5
+64,Male,ALGER,Smartphone,4G,PREPAYED,Very High Value,170,1,2,5
+79,Male,SETIF,Phablet,3G,PREPAYED,Medium Value,32,0,15,9
+37,Male,BORDJ-BOU-ARRERIDJ,Phablet,4G,PREPAYED,Very Low Value,11,0,0,3
+34,Male,ALGER,UNKNOWN,4G,PREPAYED,NEW,17,0,0,0
+22,Female,ANNABA,Smartphone,4G,PREPAYED,Very Low Value,8,0,0,9
+63,Male,RELIZANE,Phablet,4G,PREPAYED,Very Low Value,1,0,5,7
+45,Male,MOSTAGANEM,Smartphone,4G,PREPAYED,Medium Value,5,0,0,5
+48,Male,TLEMCEN,Smartphone,4G,PREPAYED,Zero Value,2,0,16,9
+60,Male,ALGER,Smartphone,2G,PREPAYED,Very Low Value,4,0,11,3
+33,Male,RELIZANE,Phablet,4G,PREPAYED,Very Low Value,3,0,0,5
+36,Male,ALGER,Smartphone,4G,PREPAYED,NEW,2,0,0,3
+52,Male,CONSTANTINE,Feature Phone,2G,PREPAYED,Medium Value,17,1,14,2
+55,Female,ALGER,Phablet,4G,PREPAYED,Very Low Value,5,0,0,6
+48,Female,OUM-EL-BOUAGHI,Smartphone,4G,PREPAYED,Low Value,63,0,0,9
+31,Male,BEJAIA,Smartphone,4G,PREPAYED,Very High Value,40,0,5,1
+27,Female,TIARET,Phablet,4G,PREPAYED,Very Low Value,3,0,5,7
+38,Male,AIN-TEMOUCHENT,Smartphone,4G,PREPAYED,Low Value,2,0,4,3
+46,Male,SETIF,Phablet,4G,PREPAYED,Very Low Value,1,0,0,4
+63,Male,MASCARA,Smartphone,2G,PREPAYED,Very Low Value,5,0,17,6
+52,Male,BLIDA,Phablet,4G,PREPAYED,Very Low Value,45,0,0,6
+37,Male,BEJAIA,Phablet,4G,PREPAYED,Low Value,4,0,0,4
+21,Male,BISKRA,Phablet,4G,PREPAYED,Very Low Value,12,0,0,5
+61,Male,BATNA,Feature Phone,4G,PREPAYED,Very Low Value,2,0,18,1
+54,Male,BOUIRA,Phablet,4G,PREPAYED,High Value,13,0,16,1
+32,Male,MASCARA,Phablet,4G,PREPAYED,Very Low Value,8,0,0,10
+55,Male,TIARET,Phablet,4G,PREPAYED,Zero Value,5,0,1,0
+40,Male,ALGER,Phablet,4G,PREPAYED,Very Low Value,3,0,3,6
+51,Male,MOSTAGANEM,Phablet,4G,PREPAYED,Very Low Value,22,0,0,6
+19,Male,ORAN,Phablet,4G,PREPAYED,Low Value,9,0,0,8
+39,Male,TLEMCEN,Phablet,4G,PREPAYED,Low Value,9,0,0,8
+37,Male,SKIKDA,Phablet,4G,PREPAYED,Zero Value,1,0,0,4
+59,Male,SETIF,Phablet,4G,PREPAYED,Very High Value,6,0,0,8
+40,Male,BORDJ-BOU-ARRERIDJ,Smartphone,4G,PREPAYED,Very Low Value,1,0,0,5
+28,Male,BOUIRA,Phablet,4G,PREPAYED,Very Low Value,48,0,2,0
+28,Male,CONSTANTINE,Smartphone,2G,PREPAYED,Medium Value,180,0,17,10
+42,Male,MOSTAGANEM,Tablet,4G,PREPAYED,Low Value,27,0,0,8
+28,Male,AIN-DEFLA,Smartphone,4G,PREPAYED,Low Value,1,0,2,9
+44,Male,ALGER,Phablet,4G,PREPAYED,Very High Value,33,0,2,6
+33,Male,ORAN,Smartphone,4G,PREPAYED,Low Value,61,0,2,5
+22,Male,ALGER,Phablet,4G,PREPAYED,Zero Value,20,0,0,8
+44,Male,CONSTANTINE,Phablet,4G,PREPAYED,Medium Value,17,0,4,0
+57,Male,BEJAIA,Phablet,4G,PREPAYED,High Value,12,0,3,8
+32,Female,CHLEF,Smartphone,4G,PREPAYED,Very Low Value,7,0,0,11
+28,Female,MOSTAGANEM,Phablet,4G,PREPAYED,Medium Value,25,1,2,5
+49,Male,JIJEL,Smartphone,4G,PREPAYED,Low Value,8,0,0,6
+60,Male,JIJEL,Phablet,3G,PREPAYED,Medium Value,9,0,15,3
+65,Male,DJELFA,Phablet,4G,PREPAYED,Zero Value,47,0,1,0
+55,Female,SETIF,Phablet,4G,PREPAYED,Zero Value,21,0,0,8
+45,Male,ALGER,Tablet,4G,PREPAYED,Very Low Value,8,0,6,9
+20,Male,TIPAZA,Phablet,4G,PREPAYED,Zero Value,1,0,0,4
+29,Male,CHLEF,Tablet,4G,PREPAYED,Very Low Value,3,0,0,3
+28,Male,CONSTANTINE,Phablet,4G,PREPAYED,Zero Value,1,0,0,6
+32,Female,SIDI-BELABBES,Phablet,4G,PREPAYED,Very Low Value,1,0,2,2
+20,Male,MOSTAGANEM,Phablet,4G,PREPAYED,Low Value,23,0,3,5
+36,Male,BATNA,Phablet,4G,HYBRID,Not Concerned (Postpaid),14,1,1,2
+25,Male,EL-BAYADH,Smartphone,4G,PREPAYED,High Value,108,0,0,6
+47,Male,ALGER,Phablet,4G,PREPAYED,Zero Value,2,0,0,8
+39,Male,JIJEL,Smartphone,4G,PREPAYED,Low Value,5,0,5,0
+58,Male,TEBESSA,Phablet,4G,PREPAYED,Very Low Value,21,0,0,5
+57,Male,MEDEA,Phablet,4G,PREPAYED,NEW,4,0,0,3
+32,Female,RELIZANE,Phablet,4G,PREPAYED,Very Low Value,10,0,0,7
+27,Male,ALGER,Phablet,4G,PREPAYED,Very Low Value,5,0,2,2
+49,Male,MEDEA,Phablet,4G,PREPAYED,Low Value,80,0,4,6
+25,Female,CONSTANTINE,Phablet,4G,PREPAYED,Low Value,38,0,4,8
+28,Male,SOUK-AHRAS,Phablet,4G,PREPAYED,NEW,1,0,0,3
+50,Male,DJELFA,Feature Phone,4G,PREPAYED,Very Low Value,1,0,0,4
+35,Male,SKIKDA,Phablet,4G,PREPAYED,Zero Value,4,0,0,6
+41,Male,MEDEA,Phablet,4G,PREPAYED,Low Value,12,1,15,7
+54,Male,BEJAIA,Phablet,4G,PREPAYED,Zero Value,3,0,0,5
+57,Female,ORAN,Phablet,4G,PREPAYED,Very Low Value,7,0,5,0
+41,Male,EL-TARF,Phablet,4G,PREPAYED,Very Low Value,1,0,0,5
+38,Male,SKIKDA,Phablet,4G,PREPAYED,Zero Value,4,0,4,4
+47,Male,CHLEF,Phablet,4G,PREPAYED,Zero Value,2,0,0,5
+51,Male,MSILA,Smartphone,4G,PREPAYED,Zero Value,30,0,3,0
+44,Male,ALGER,Phablet,4G,PREPAYED,Medium Value,18,0,5,0
+50,Male,ORAN,Phablet,4G,PREPAYED,Very Low Value,6,1,4,6
+43,Female,BORDJ-BOU-ARRERIDJ,Phablet,4G,PREPAYED,Low Value,8,0,0,8
+51,Female,TIZI-OUZOU,Phablet,4G,PREPAYED,NEW,24,0,0,2
+21,Male,OULED-DJELLAL,Phablet,4G,PREPAYED,Zero Value,4,0,0,7
+22,Male,TEBESSA,Phablet,4G,PREPAYED,High Value,8,0,1,3
+36,Male,MILA,Smartphone,4G,PREPAYED,Low Value,6,0,0,3
+29,Male,MOSTAGANEM,Phablet,4G,PREPAYED,Very Low Value,30,0,4,1
+46,Male,SKIKDA,Phablet,4G,PREPAYED,High Value,4,1,19,7
+37,Male,MEDEA,Phablet,4G,PREPAYED,Low Value,6,0,0,7
+41,Male,MEDEA,Smartphone,2G,PREPAYED,Medium Value,8,0,16,10
+46,Male,TIARET,Phablet,4G,PREPAYED,Very Low Value,4,0,0,5
+38,Female,TLEMCEN,Phablet,4G,PREPAYED,High Value,18,0,0,4
+61,Male,AIN-TEMOUCHENT,Phablet,4G,PREPAYED,Very Low Value,6,0,0,6
+53,Male,ORAN,Phablet,4G,PREPAYED,Very Low Value,27,0,0,9
+52,Male,RELIZANE,Phablet,3G,PREPAYED,Low Value,69,0,6,4
+47,Male,BATNA,Phablet,4G,PREPAYED,Zero Value,1,0,0,4
+45,Male,AIN-DEFLA,Feature Phone,4G,PREPAYED,Medium Value,22,0,5,2
+74,Female,ALGER,Phablet,4G,PREPAYED,NEW,1,0,0,3
+43,Male,TIARET,Phablet,4G,PREPAYED,High Value,9,1,15,9
+76,Male,AIN-DEFLA,Smartphone,4G,PREPAYED,Zero Value,40,0,0,7
+55,Male,BISKRA,Phablet,2G,PREPAYED,Medium Value,8,0,18,3
+47,Male,TIZI-OUZOU,Phablet,4G,PREPAYED,Low Value,11,0,17,7
+55,Male,MEDEA,Smartphone,2G,PREPAYED,Low Value,3,0,19,3
+48,Male,GUELMA,Phablet,4G,PREPAYED,Medium Value,9,0,18,5
+62,Male,SETIF,Phablet,4G,PREPAYED,Very Low Value,2,1,6,5
+39,Female,MEDEA,Phablet,4G,PREPAYED,NEW,1,0,0,2
+46,Male,TIARET,Smartphone,4G,PREPAYED,Zero Value,1,0,0,4
+27,Male,BATNA,Phablet,4G,PREPAYED,Medium Value,38,0,0,7
+36,Male,BOUMERDES,Phablet,4G,PREPAYED,Very Low Value,4,0,0,5
+44,Male,MOSTAGANEM,Smartphone,4G,PREPAYED,Low Value,21,0,16,0
+51,Male,MEDEA,Smartphone,4G,PREPAYED,Zero Value,1,0,2,3
+47,Male,SETIF,Smartphone,4G,PREPAYED,NEW,1,0,0,2
+48,Male,MASCARA,Phablet,3G,PREPAYED,Very Low Value,9,0,7,8
+48,Female,CONSTANTINE,Phablet,4G,POSTPAYED,Not Concerned (Postpaid),1,0,11,0
+52,Male,TISSEMSILT,Phablet,4G,PREPAYED,Zero Value,19,0,2,4
+56,Female,TLEMCEN,Phablet,4G,PREPAYED,Low Value,14,0,5,8
+47,Male,ORAN,Phablet,4G,PREPAYED,NEW,1,0,0,3
+39,Male,ALGER,Phablet,4G,PREPAYED,Medium Value,4,0,4,6
+38,Male,ORAN,Phablet,4G,PREPAYED,Medium Value,14,0,0,6
+37,Male,CHLEF,Smartphone,4G,PREPAYED,Medium Value,9,0,0,3
+46,Male,ORAN,Smartphone,4G,PREPAYED,Very Low Value,7,0,3,4
+38,Male,CONSTANTINE,Phablet,4G,PREPAYED,Zero Value,19,0,0,6
+40,Male,TLEMCEN,Phablet,3G,PREPAYED,Very Low Value,5,0,7,2
+46,Male,SETIF,Phablet,4G,PREPAYED,Medium Value,44,0,0,6
+51,Male,GUELMA,Phablet,4G,PREPAYED,Zero Value,1,0,0,7
+36,Male,MASCARA,Phablet,4G,PREPAYED,Low Value,6,0,0,9
+32,Male,RELIZANE,Phablet,4G,PREPAYED,NEW,7,0,0,3
+43,Female,TIZI-OUZOU,Smartphone,4G,PREPAYED,Low Value,20,0,11,7
+29,Female,BISKRA,Feature Phone,4G,PREPAYED,Zero Value,1,0,0,7
+32,Male,ALGER,Phablet,4G,PREPAYED,Low Value,14,0,6,1
+45,Male,SETIF,Phablet,4G,PREPAYED,High Value,3,0,1,4
+58,Male,ORAN,Phablet,4G,PREPAYED,Very Low Value,57,0,0,6
+43,Male,ORAN,Router,4G,PREPAYED,NEW,1,0,0,3
+20,Male,BOUMERDES,Phablet,4G,PREPAYED,Very Low Value,19,0,1,2
+32,Female,ORAN,Phablet,4G,PREPAYED,Low Value,6,0,4,7
+56,Male,BISKRA,Phablet,4G,PREPAYED,NEW,10,0,0,3
+42,Male,CONSTANTINE,Smartphone,4G,PREPAYED,Very Low Value,1,0,15,6
+28,Male,MEDEA,Phablet,4G,PREPAYED,Very Low Value,1,0,0,5
+23,Male,MEDEA,Phablet,4G,PREPAYED,Zero Value,2,0,0,5
+39,Female,ORAN,Phablet,4G,PREPAYED,Medium Value,86,0,0,8
+51,Male,ORAN,Phablet,4G,PREPAYED,Low Value,60,0,0,8
+33,Male,MEDEA,Phablet,4G,PREPAYED,Zero Value,1,0,0,4
+18,Male,BATNA,Phablet,4G,PREPAYED,Low Value,24,0,0,4
+46,Male,SETIF,Phablet,4G,PREPAYED,Zero Value,1,0,0,4
+39,Male,BEJAIA,Phablet,4G,PREPAYED,Medium Value,7,0,1,1
+26,Male,OUM-EL-BOUAGHI,Phablet,4G,PREPAYED,Very Low Value,2,0,1,8
+31,Male,TIZI-OUZOU,Phablet,4G,PREPAYED,Low Value,32,0,2,1
+48,Male,ALGER,Phablet,4G,PREPAYED,Low Value,151,0,3,4
+22,Male,BLIDA,Smartphone,4G,PREPAYED,Low Value,51,0,4,0
+41,Female,CONSTANTINE,Phablet,4G,PREPAYED,Low Value,39,0,1,0
+21,Male,ORAN,Phablet,4G,PREPAYED,Low Value,10,0,0,8
+54,Male,BLIDA,Phablet,4G,PREPAYED,Zero Value,10,0,0,5
+39,Male,AIN-DEFLA,Smartphone,4G,PREPAYED,Very Low Value,2,0,0,8
+24,Male,CONSTANTINE,Smartphone,4G,PREPAYED,Medium Value,8,0,0,4
+33,Female,SIDI-BELABBES,Phablet,4G,PREPAYED,Very Low Value,26,0,1,6
+32,Male,SETIF,Feature Phone,4G,PREPAYED,Low Value,10,0,13,4
+23,Male,ALGER,Phablet,4G,PREPAYED,Medium Value,77,0,2,0
+50,Male,TLEMCEN,Smartphone,4G,PREPAYED,Very Low Value,2,0,0,6
+32,Female,RELIZANE,Phablet,4G,PREPAYED,Low Value,24,0,10,6
+19,Male,TIARET,Phablet,4G,PREPAYED,Medium Value,74,0,0,7
+25,Male,AIN-DEFLA,Phablet,4G,PREPAYED,Medium Value,54,0,0,3
+47,Male,ALGER,Smartphone,4G,PREPAYED,Zero Value,3,0,0,5
+44,Male,BEJAIA,Phablet,4G,PREPAYED,Very Low Value,22,0,0,6
+23,Male,SKIKDA,Phablet,4G,PREPAYED,NEW,2,0,0,2
+51,Male,ALGER,Phablet,4G,PREPAYED,High Value,6,0,0,8
+37,Male,AIN-TEMOUCHENT,Phablet,4G,PREPAYED,Low Value,7,0,10,10
+47,Male,BORDJ-BOU-ARRERIDJ,Phablet,4G,PREPAYED,Low Value,19,0,0,8
+37,Male,MOSTAGANEM,Phablet,4G,PREPAYED,Very Low Value,3,0,0,6
+22,Male,AIN-TEMOUCHENT,Smartphone,4G,PREPAYED,Zero Value,10,0,0,6
+19,Male,BORDJ-BOU-ARRERIDJ,Smartphone,4G,PREPAYED,Very Low Value,20,0,0,7
+51,Male,RELIZANE,Phablet,4G,PREPAYED,High Value,129,0,0,8
+37,Male,BOUMERDES,Phablet,4G,PREPAYED,Medium Value,46,0,3,10
+44,Male,ALGER,Phablet,4G,PREPAYED,Zero Value,3,0,0,6
+24,Male,ALGER,Phablet,4G,PREPAYED,Very Low Value,14,1,1,10
+71,Male,AIN-DEFLA,Smartphone,4G,PREPAYED,Low Value,30,0,0,4
+29,Male,JIJEL,Smartphone,4G,PREPAYED,Zero Value,25,0,7,9
+34,Male,CHLEF,Smartphone,4G,PREPAYED,Zero Value,1,0,2,2
+44,Male,MEDEA,Phablet,4G,PREPAYED,Zero Value,1,0,3,6
+39,Male,RELIZANE,Smartphone,2G,PREPAYED,Medium Value,2,1,16,8
+55,Male,AIN-DEFLA,Phablet,4G,PREPAYED,Low Value,2,0,14,7
+39,Male,MOSTAGANEM,Phablet,4G,PREPAYED,Very Low Value,6,0,16,7
+38,Male,MOSTAGANEM,Phablet,4G,PREPAYED,Very Low Value,26,0,0,6
+28,Female,BOUMERDES,Phablet,4G,PREPAYED,Zero Value,33,0,0,9
+28,Male,MOSTAGANEM,Smartphone,4G,PREPAYED,Very Low Value,1,0,0,11
+64,Female,ORAN,Phablet,4G,PREPAYED,Very Low Value,33,0,0,5
+45,Male,CONSTANTINE,Phablet,4G,PREPAYED,Zero Value,17,0,2,6
+31,Male,RELIZANE,Smartphone,4G,PREPAYED,NEW,1,0,0,2
+63,Male,TIARET,Phablet,4G,PREPAYED,Zero Value,1,0,0,6
+40,Male,ALGER,Smartphone,4G,PREPAYED,Medium Value,10,0,0,7
+25,Female,BORDJ-BOU-ARRERIDJ,Phablet,4G,PREPAYED,NEW,1,0,0,3
+52,Male,MOSTAGANEM,Phablet,4G,PREPAYED,High Value,69,0,6,4
+30,Male,SKIKDA,Phablet,4G,PREPAYED,NEW,15,0,0,3
+28,Male,EL-BAYADH,Smartphone,4G,PREPAYED,Very Low Value,3,0,0,6
+47,Male,TIPAZA,Phablet,4G,PREPAYED,Very High Value,16,0,5,8
+23,Male,SAIDA,Phablet,4G,PREPAYED,High Value,76,0,0,7
+26,Male,ANNABA,Phablet,4G,PREPAYED,Very Low Value,52,0,0,8
+31,Male,MILA,Phablet,4G,PREPAYED,Very High Value,40,0,2,8
+43,Male,MSILA,Phablet,4G,PREPAYED,Very Low Value,8,2,14,1
+67,Male,SKIKDA,Smartphone,4G,PREPAYED,Zero Value,15,0,0,9
+31,Female,BOUMERDES,Phablet,3G,PREPAYED,Very High Value,11,0,12,7
+48,Male,ORAN,Tablet,4G,PREPAYED,Medium Value,107,1,4,6
+53,Male,MASCARA,Phablet,4G,PREPAYED,NEW,22,0,0,3
+30,Male,BOUIRA,Smartphone,4G,PREPAYED,Very Low Value,10,0,3,9
+47,Male,BOUMERDES,Phablet,4G,PREPAYED,Zero Value,1,0,0,5
+26,Male,GHARDAIA,Phablet,4G,PREPAYED,Zero Value,1,0,0,6
+63,Male,MASCARA,Feature Phone,4G,PREPAYED,Medium Value,13,0,7,7
+49,Male,BOUMERDES,Phablet,4G,PREPAYED,Medium Value,11,0,15,3
+18,Male,MEDEA,Phablet,4G,PREPAYED,Zero Value,6,0,0,5
+58,Male,JIJEL,Phablet,4G,PREPAYED,Zero Value,24,0,0,10
+32,Male,BORDJ-BOU-ARRERIDJ,Phablet,4G,PREPAYED,High Value,7,0,17,1
+50,Male,MASCARA,Smartphone,4G,PREPAYED,Very Low Value,4,0,0,7
+22,Male,AIN-DEFLA,Smartphone,4G,PREPAYED,Medium Value,8,0,0,7
+20,Male,RELIZANE,Phablet,4G,PREPAYED,Zero Value,8,0,0,4
+45,Female,SIDI-BELABBES,Smartphone,4G,PREPAYED,Very Low Value,2,0,5,7
+45,Male,TIZI-OUZOU,Feature Phone,4G,PREPAYED,Very Low Value,1,0,1,10
+44,Female,SETIF,Phablet,4G,PREPAYED,Zero Value,1,0,0,7
+36,Male,RELIZANE,Phablet,4G,PREPAYED,Zero Value,1,0,0,6
+44,Male,ALGER,Smartphone,4G,PREPAYED,Very Low Value,2,0,0,8
+51,Male,ALGER,Router,4G,PREPAYED,Low Value,8,0,0,5
+44,Male,CHLEF,Phablet,4G,PREPAYED,Very Low Value,11,0,0,6
+80,Male,ALGER,Phablet,4G,PREPAYED,Zero Value,4,0,0,7
+54,Male,TIZI-OUZOU,Smartphone,2G,PREPAYED,Very Low Value,1,0,16,2
+54,Male,BATNA,Phablet,4G,PREPAYED,Zero Value,12,0,0,6
+24,Male,SETIF,Phablet,4G,PREPAYED,NEW,1,0,0,2
+46,Male,ALGER,Phablet,4G,PREPAYED,NEW,1,0,0,1
+41,Male,MOSTAGANEM,Phablet,4G,PREPAYED,NEW,1,0,0,3
+58,Male,MEDEA,Smartphone,4G,PREPAYED,Very Low Value,11,0,1,2
+53,Male,MEDEA,Phablet,4G,PREPAYED,Low Value,33,0,0,3
+50,Male,TISSEMSILT,Phablet,4G,PREPAYED,Low Value,82,0,5,2
+27,Male,BLIDA,Phablet,4G,PREPAYED,Very Low Value,9,0,0,6
+68,Male,OUM-EL-BOUAGHI,IoT Device,4G,PREPAYED,Very Low Value,1,0,0,7
+48,Male,MASCARA,Phablet,4G,PREPAYED,Very Low Value,5,0,8,0
+33,Male,BEJAIA,Phablet,4G,PREPAYED,Medium Value,12,0,4,4
+46,Male,BISKRA,Smartphone,4G,PREPAYED,Low Value,4,0,16,7
+49,Male,MEDEA,Phablet,4G,PREPAYED,Low Value,1,0,8,7
+27,Female,ALGER,Phablet,4G,PREPAYED,High Value,94,0,0,7
